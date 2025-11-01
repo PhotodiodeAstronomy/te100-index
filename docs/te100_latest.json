@@ -1,0 +1,62 @@
+[
+  {
+    "Rank":1,
+    "Ticker":"KR",
+    "Company":"Kroger",
+    "Period End":"2025-02-01",
+    "Revenue ($B)":147.12,
+    "Net Income ($B)":2.67,
+    "TE (%)":98.19,
+    "Consumer Insight":"98.2\u00a2 of $1 becomes real value"
+  },
+  {
+    "Rank":2,
+    "Ticker":"WMT",
+    "Company":"Walmart",
+    "Period End":"2025-01-31",
+    "Revenue ($B)":680.99,
+    "Net Income ($B)":19.44,
+    "TE (%)":97.15,
+    "Consumer Insight":"97.1\u00a2 of $1 becomes real value"
+  },
+  {
+    "Rank":3,
+    "Ticker":"COST",
+    "Company":"Costco",
+    "Period End":"2025-08-31",
+    "Revenue ($B)":275.24,
+    "Net Income ($B)":8.1,
+    "TE (%)":97.06,
+    "Consumer Insight":"97.1\u00a2 of $1 becomes real value"
+  },
+  {
+    "Rank":4,
+    "Ticker":"TGT",
+    "Company":"Target",
+    "Period End":"2015-01-31",
+    "Revenue ($B)":72.62,
+    "Net Income ($B)":4.09,
+    "TE (%)":94.37,
+    "Consumer Insight":"94.4\u00a2 of $1 becomes real value"
+  },
+  {
+    "Rank":5,
+    "Ticker":"AMZN",
+    "Company":"Amazon",
+    "Period End":"2017-12-31",
+    "Revenue ($B)":177.87,
+    "Net Income ($B)":59.25,
+    "TE (%)":66.69,
+    "Consumer Insight":"66.7\u00a2 of $1 becomes real value"
+  },
+  {
+    "Rank":6,
+    "Ticker":"AAPL",
+    "Company":"Apple",
+    "Period End":"2018-09-29",
+    "Revenue ($B)":265.6,
+    "Net Income ($B)":112.01,
+    "TE (%)":57.83,
+    "Consumer Insight":"57.8\u00a2 of $1 becomes real value"
+  }
+]
