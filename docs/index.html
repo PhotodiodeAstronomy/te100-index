@@ -1,52 +1,81 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>TE 100 - Transformation Efficiency</title>
-  <meta charset="utf-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TE 100 Index – Transformation Efficiency</title>
   <style>
-    body { font-family: Arial; margin: 40px; background: #f8f9fa; }
-    h1 { color: #2c3e50; }
-    table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 16px; }
-    th { background: #3498db; color: white; padding: 12px; }
-    td { padding: 10px; border-bottom: 1px solid #ddd; }
-    tr:hover { background: #f1f1f1; }
-    .te { font-weight: bold; color: #27ae60; }
-    .download { margin: 15px 0; }
-    a { color: #3498db; text-decoration: none; }
+    body { font-family: 'Segoe UI', sans-serif; margin: 20px; background: #f9f9fb; color: #333; }
+    h1 { text-align: center; color: #1a73e8; }
+    #table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #ddd; padding: 10px; text-align: center; font-size: 14px; }
+    th { background: #1a73e8; color: white; }
+    tr:nth-child(even) { background: #f5f7fa; }
+    .te { font-weight: bold; color: #1a73e8; }
+    .cte { font-weight: bold; color: #34a853; }
+    .insight { font-family: monospace; font-size: 13px; color: #666; }
+    .pure { background: #e6f4ea; color: #137333; font-weight: bold; }
+    .mixed { background: #fff3cd; color: #856404; font-weight: bold; }
+    .loading { text-align: center; color: #1a73e8; font-size: 18px; margin: 40px; }
+    footer { text-align: center; margin-top: 40px; font-size: 12px; color: #777; }
   </style>
 </head>
 <body>
-  <h1>Transformation Efficiency 100 (TE 100)</h1>
-  <p><strong>How much of your dollar becomes real value?</strong><br>
-     Updated daily from SEC EDGAR 10-K filings.</p>
+  <h1>TE 100 Index – Transformation Efficiency</h1>
+  <p style="text-align:center; max-width:800px; margin:0 auto 20px;">
+    <strong>TE</strong> = How much of your $1 becomes real value (goods, wages, innovation).<br>
+    <strong>CTE</strong> = TE using only <em>consumer</em> revenue.<br>
+    <strong>Insight</strong> = "97.6¢ TE | 97.6¢ CTE" → 97.6¢ of every dollar becomes value.
+  </p>
 
-  <div class="download">
-    <a href="te100_latest.csv">Download CSV</a> • 
-    <a href="te100_latest.json">View JSON API</a>
-  </div>
+  <div id="table" class="loading">Loading TE 100 Index... (refresh in 30 sec)</div>
 
-  <div id="table"></div>
-  <p><small>Data auto-refreshes daily. <a href="https://github.com/PhotodiodeAstronomy/te100-index">View source</a></small></p>
+  <footer>
+    Live data from SEC 10-K • Auto-updates daily • <a href="https://github.com/PhotodiodeAstronomy/te100-index">GitHub</a>
+  </footer>
 
   <script>
     fetch('te100_latest.json')
       .then(r => r.json())
       .then(data => {
-        let html = '<table><tr><th>Rank</th><th>Ticker</th><th>Company</th><th>TE (%)</th><th>Insight</th></tr>';
+        let html = `
+          <table>
+            <tr>
+              <th>Rank</th>
+              <th>Ticker</th>
+              <th>Company</th>
+              <th>TE (%)</th>
+              <th>CTE (%)</th>
+              <th>Purity</th>
+              <th>Insight</th>
+            </tr>
+        `;
+
         data.forEach(row => {
-          html += `<tr>
-            <td>${row.Rank}</td>
-            <td>${row.Ticker}</td>
-            <td>${row.Company}</td>
-            <td class="te">${row['TE (%)']}</td>
-            <td>${row['Consumer Insight']}</td>
-          </tr>`;
+          const te = row['TE (%)'] || 'N/A';
+          const cte = row['CTE (%)'] || 'N/A';
+          const insight = row.Insight || 'N/A';
+          const purity = Math.abs(te - cte) < 1 ? 'Pure' : 'Mixed';
+
+          html += `
+            <tr>
+              <td>${row.Rank || ''}</td>
+              <td><strong>${row.Ticker || ''}</strong></td>
+              <td>${row.Company || ''}</td>
+              <td class="te">${te}</td>
+              <td class="cte">${cte}</td>
+              <td class="${purity === 'Pure' ? 'pure' : 'mixed'}">${purity}</td>
+              <td class="insight">${insight}</td>
+            </tr>
+          `;
         });
-        html += '</table>';
+
+        html += `</table>`;
         document.getElementById('table').innerHTML = html;
       })
-      .catch(() => {
-        document.getElementById('table').innerHTML = '<p style="color:red">Loading data... (first run takes 1 min)</p>';
+      .catch(err => {
+        console.error('Error:', err);
+        document.getElementById('table').innerHTML = '<p style="color:red">Data load failed. Refresh in 1 min.</p>';
       });
   </script>
 </body>
