@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TE 100 - Transformation Efficiency</title>
+  <meta charset="utf-8">
+  <style>
+    body { font-family: Arial; margin: 40px; background: #f8f9fa; }
+    h1 { color: #2c3e50; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 16px; }
+    th { background: #3498db; color: white; padding: 12px; }
+    td { padding: 10px; border-bottom: 1px solid #ddd; }
+    tr:hover { background: #f1f1f1; }
+    .te { font-weight: bold; color: #27ae60; }
+    .download { margin: 15px 0; }
+    a { color: #3498db; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Transformation Efficiency 100 (TE 100)</h1>
+  <p><strong>How much of your dollar becomes real value?</strong><br>
+     Updated daily from SEC EDGAR 10-K filings.</p>
+
+  <div class="download">
+    <a href="te100_latest.csv">Download CSV</a> • 
+    <a href="te100_latest.json">View JSON API</a>
+  </div>
+
+  <div id="table"></div>
+  <p><small>Data auto-refreshes daily. <a href="https://github.com/yourusername/te100-index">View source</a></small></p>
+
+  <script>
+    fetch('te100_latest.json')
+      .then(r => r.json())
+      .then(data => {
+        let html = '<table><tr><th>Rank</th><th>Ticker</th><th>Company</th><th>TE (%)</th><th>Insight</th></tr>';
+        data.forEach(row => {
+          html += `<tr>
+            <td>${row.Rank}</td>
+            <td>${row.Ticker}</td>
+            <td>${row.Company}</td>
+            <td class="te">${row['TE (%)']}</td>
+            <td>${row['Consumer Insight']}</td>
+          </tr>`;
+        });
+        html += '</table>';
+        document.getElementById('table').innerHTML = html;
+      })
+      .catch(() => {
+        document.getElementById('table').innerHTML = '<p style="color:red">Loading data... (first run takes 1 min)</p>';
+      });
+  </script>
+</body>
+</html>
