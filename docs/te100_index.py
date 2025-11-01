@@ -1,4 +1,4 @@
-# docs/te100_index.py - FINAL TE + CTE (100+ companies, NO SYNTAX ERRORS)
+# docs/te100_index.py - FINAL TE + CTE (100+ companies, NO ERRORS)
 import requests
 import pandas as pd
 from datetime import datetime
@@ -6,7 +6,7 @@ from datetime import datetime
 USER_AGENT = "TE100 Index (contact@example.com)"
 BASE_URL = "https://data.sec.gov/api/xbrl/companyfacts/CIK{}.json"
 
-# === FULL 100+ COMPANIES ===
+# === FULL 100+ COMPANIES (FIXED) ===
 COMPANIES = {
     "WMT": ("Walmart", "0000104169"), "COST": ("Costco", "0000909832"),
     "AMZN": ("Amazon", "0001018724"), "AAPL": ("Apple", "0000320193"),
@@ -29,4 +29,17 @@ COMPANIES = {
     "ABT": ("Abbott", "0000001800"), "DHR": ("Danaher", "0000313616"),
     "KO": ("Coca-Cola", "0000021344"), "NFLX": ("Netflix", "0001065280"),
     "DIS": ("Disney", "0001744489"), "TXN": ("Texas Inst.", "0000097476"),
-    "ORCL": ("Oracle", "0001341439"), "PFE": ("
+    "ORCL": ("Oracle", "0001341439"), "PFE": ("Pfizer", "0000078003"),
+    "PM": ("Philip Morris", "0001413329"), "INTC": ("Intel", "0000050863"),
+    "VZ": ("Verizon", "0000732712"), "CSCO": ("Cisco", "0000858877"),
+    "CAT": ("Caterpillar", "0000018230"), "AMGN": ("Amgen", "0000318154"),
+    "QCOM": ("Qualcomm", "0000804328"), "HON": ("Honeywell", "0000773840"),
+    "RTX": ("RTX", "0000101829"), "UNP": ("Union Pacific", "0000100517"),
+    "IBM": ("IBM", "0000051143"), "GS": ("Goldman", "0000886982"),
+    "SPGI": ("S&P Global", "0000064040"), "NOW": ("ServiceNow", "0001373715"),
+    "GE": ("GE", "0000040545"), "ADBE": ("Adobe", "0000796343"),
+    "BKNG": ("Booking", "0001075531"), "BLK": ("BlackRock", "0001364742"),
+    "NKE": ("Nike", "0000320187"), "SYK": ("Stryker", "0000796949"),
+    "UPS": ("UPS", "0001090727"), "LMT": ("Lockheed", "0000936468"),
+    "TJX": ("TJX", "0001091986"), "AMT": ("American Tower", "0001053507"),
+    "MDT": ("Medtronic", "
