@@ -1,1222 +1,233 @@
 [
   {
     "Rank":1,
-    "Ticker":"REGN",
-    "Company":"Regeneron",
-    "Period End":"2019-12-31",
-    "Revenue ($B)":0.23,
-    "Net Income ($B)":-0.14,
-    "TE (%)":161.51,
-    "Consumer Insight":"161.5\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":2,
-    "Ticker":"INTC",
-    "Company":"Intel",
-    "Period End":"2017-12-30",
-    "Revenue ($B)":62.76,
-    "Net Income ($B)":-18.76,
-    "TE (%)":129.88,
-    "Consumer Insight":"129.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":3,
-    "Ticker":"VRTX",
-    "Company":"Vertex",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":2.49,
-    "Net Income ($B)":-0.54,
-    "TE (%)":121.52,
-    "Consumer Insight":"121.5\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":4,
-    "Ticker":"BMY",
-    "Company":"Bristol Myers",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":48.3,
-    "Net Income ($B)":-8.95,
-    "TE (%)":118.53,
-    "Consumer Insight":"118.5\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":5,
-    "Ticker":"BA",
-    "Company":"Boeing",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":66.52,
-    "Net Income ($B)":-11.82,
-    "TE (%)":117.77,
-    "Consumer Insight":"117.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":6,
     "Ticker":"DLTR",
     "Company":"Dollar Tree",
     "Period End":"2025-02-01",
     "Revenue ($B)":17.58,
     "Net Income ($B)":-3.03,
     "TE (%)":117.24,
-    "Consumer Insight":"117.2\u00a2 of $1 becomes real value"
+    "CTE (%)":117.24,
+    "Consumer Insight":"117.2\u00a2 TE | 117.2\u00a2 CTE"
   },
   {
-    "Rank":7,
-    "Ticker":"AIG",
-    "Company":"AIG",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":27.25,
-    "Net Income ($B)":-1.4,
-    "TE (%)":105.15,
-    "Consumer Insight":"105.2\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":8,
-    "Ticker":"VFC",
-    "Company":"VF Corp",
-    "Period End":"2020-03-28",
-    "Revenue ($B)":10.49,
-    "Net Income ($B)":-0.19,
-    "TE (%)":101.81,
-    "Consumer Insight":"101.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":9,
-    "Ticker":"STZ",
-    "Company":"Constellation Brands",
-    "Period End":"2025-02-28",
-    "Revenue ($B)":10.21,
-    "Net Income ($B)":-0.08,
-    "TE (%)":100.8,
-    "Consumer Insight":"100.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":10,
-    "Ticker":"HUM",
-    "Company":"Humana",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":117.76,
-    "Net Income ($B)":1.21,
-    "TE (%)":98.98,
-    "Consumer Insight":"99.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":11,
-    "Ticker":"BKNG",
-    "Company":"Booking",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":23.74,
-    "Net Income ($B)":0.29,
-    "TE (%)":98.78,
-    "Consumer Insight":"98.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":12,
-    "Ticker":"CVS",
-    "Company":"CVS Health",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":372.81,
-    "Net Income ($B)":4.61,
-    "TE (%)":98.76,
-    "Consumer Insight":"98.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":13,
-    "Ticker":"SO",
-    "Company":"Southern Company",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":26.72,
-    "Net Income ($B)":0.44,
-    "TE (%)":98.35,
-    "Consumer Insight":"98.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":14,
-    "Ticker":"KR",
-    "Company":"Kroger",
-    "Period End":"2025-02-01",
-    "Revenue ($B)":147.12,
-    "Net Income ($B)":2.67,
-    "TE (%)":98.19,
-    "Consumer Insight":"98.2\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":15,
-    "Ticker":"GILD",
-    "Company":"Gilead",
-    "Period End":"2020-12-31",
-    "Revenue ($B)":24.69,
-    "Net Income ($B)":0.48,
-    "TE (%)":98.06,
-    "Consumer Insight":"98.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":16,
-    "Ticker":"ADM",
-    "Company":"ADM",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":85.53,
-    "Net Income ($B)":1.8,
-    "TE (%)":97.9,
-    "Consumer Insight":"97.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":17,
-    "Ticker":"BJ",
-    "Company":"BJ's Wholesale",
-    "Period End":"2025-02-01",
-    "Revenue ($B)":20.5,
-    "Net Income ($B)":0.53,
-    "TE (%)":97.39,
-    "Consumer Insight":"97.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":18,
+    "Rank":2,
     "Ticker":"WMT",
     "Company":"Walmart",
     "Period End":"2025-01-31",
     "Revenue ($B)":680.99,
     "Net Income ($B)":19.44,
     "TE (%)":97.15,
-    "Consumer Insight":"97.1\u00a2 of $1 becomes real value"
+    "CTE (%)":97.15,
+    "Consumer Insight":"97.1\u00a2 TE | 97.1\u00a2 CTE"
   },
   {
-    "Rank":19,
+    "Rank":3,
     "Ticker":"COST",
     "Company":"Costco",
     "Period End":"2025-08-31",
     "Revenue ($B)":275.24,
     "Net Income ($B)":8.1,
     "TE (%)":97.06,
-    "Consumer Insight":"97.1\u00a2 of $1 becomes real value"
+    "CTE (%)":97.06,
+    "Consumer Insight":"97.1\u00a2 TE | 97.1\u00a2 CTE"
   },
   {
-    "Rank":20,
-    "Ticker":"CCI",
-    "Company":"Crown Castle",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":6.57,
-    "Net Income ($B)":0.21,
-    "TE (%)":96.83,
-    "Consumer Insight":"96.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":21,
-    "Ticker":"ELV",
-    "Company":"Elevance Health",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":177.01,
-    "Net Income ($B)":5.98,
-    "TE (%)":96.62,
-    "Consumer Insight":"96.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":22,
+    "Rank":4,
     "Ticker":"UNH",
     "Company":"UnitedHealth",
     "Period End":"2024-12-31",
     "Revenue ($B)":400.28,
     "Net Income ($B)":14.4,
     "TE (%)":96.4,
-    "Consumer Insight":"96.4\u00a2 of $1 becomes real value"
+    "CTE (%)":96.4,
+    "Consumer Insight":"96.4\u00a2 TE | 96.4\u00a2 CTE"
   },
   {
-    "Rank":23,
-    "Ticker":"CAT",
-    "Company":"Caterpillar",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":64.81,
-    "Net Income ($B)":2.7,
-    "TE (%)":95.83,
-    "Consumer Insight":"95.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":24,
-    "Ticker":"HPQ",
-    "Company":"HP",
-    "Period End":"2024-10-31",
-    "Revenue ($B)":53.56,
-    "Net Income ($B)":2.77,
-    "TE (%)":94.82,
-    "Consumer Insight":"94.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":25,
-    "Ticker":"DIS",
-    "Company":"Disney",
-    "Period End":"2024-09-28",
-    "Revenue ($B)":91.36,
-    "Net Income ($B)":4.97,
-    "TE (%)":94.56,
-    "Consumer Insight":"94.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":26,
-    "Ticker":"DG",
-    "Company":"Dollar General",
-    "Period End":"2015-01-31",
-    "Revenue ($B)":72.62,
-    "Net Income ($B)":4.09,
-    "TE (%)":94.37,
-    "Consumer Insight":"94.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":27,
+    "Rank":5,
     "Ticker":"TGT",
     "Company":"Target",
     "Period End":"2015-01-31",
     "Revenue ($B)":72.62,
     "Net Income ($B)":4.09,
     "TE (%)":94.37,
-    "Consumer Insight":"94.4\u00a2 of $1 becomes real value"
+    "CTE (%)":94.37,
+    "Consumer Insight":"94.4\u00a2 TE | 94.4\u00a2 CTE"
   },
   {
-    "Rank":28,
-    "Ticker":"RTX",
-    "Company":"RTX",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":80.74,
-    "Net Income ($B)":4.77,
-    "TE (%)":94.09,
-    "Consumer Insight":"94.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":29,
-    "Ticker":"TMO",
-    "Company":"Thermo Fisher",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":20.92,
-    "Net Income ($B)":1.27,
-    "TE (%)":93.91,
-    "Consumer Insight":"93.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":30,
-    "Ticker":"FDX",
-    "Company":"FedEx",
-    "Period End":"2018-05-31",
-    "Revenue ($B)":65.45,
+    "Rank":6,
+    "Ticker":"DG",
+    "Company":"Dollar General",
+    "Period End":"2015-01-31",
+    "Revenue ($B)":72.62,
     "Net Income ($B)":4.09,
-    "TE (%)":93.75,
-    "Consumer Insight":"93.7\u00a2 of $1 becomes real value"
+    "TE (%)":94.37,
+    "CTE (%)":94.37,
+    "Consumer Insight":"94.4\u00a2 TE | 94.4\u00a2 CTE"
   },
   {
-    "Rank":31,
+    "Rank":7,
     "Ticker":"TSLA",
     "Company":"Tesla",
     "Period End":"2024-12-31",
     "Revenue ($B)":97.69,
     "Net Income ($B)":7.09,
     "TE (%)":92.74,
-    "Consumer Insight":"92.7\u00a2 of $1 becomes real value"
+    "CTE (%)":92.74,
+    "Consumer Insight":"92.7\u00a2 TE | 92.7\u00a2 CTE"
   },
   {
-    "Rank":32,
-    "Ticker":"ALL",
-    "Company":"Allstate",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":64.11,
-    "Net Income ($B)":4.67,
-    "TE (%)":92.72,
-    "Consumer Insight":"92.7\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":33,
-    "Ticker":"PPG",
-    "Company":"PPG",
-    "Period End":"2013-12-31",
-    "Revenue ($B)":15.11,
-    "Net Income ($B)":1.12,
-    "TE (%)":92.61,
-    "Consumer Insight":"92.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":34,
-    "Ticker":"LMT",
-    "Company":"Lockheed Martin",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":71.04,
-    "Net Income ($B)":5.34,
-    "TE (%)":92.49,
-    "Consumer Insight":"92.5\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":35,
-    "Ticker":"ABBV",
-    "Company":"AbbVie",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":56.33,
-    "Net Income ($B)":4.28,
-    "TE (%)":92.41,
-    "Consumer Insight":"92.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":36,
-    "Ticker":"GD",
-    "Company":"General Dynamics",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":47.72,
-    "Net Income ($B)":3.78,
-    "TE (%)":92.07,
-    "Consumer Insight":"92.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":37,
-    "Ticker":"BEN",
-    "Company":"Franklin Resources",
-    "Period End":"2019-09-30",
-    "Revenue ($B)":5.77,
-    "Net Income ($B)":0.46,
-    "TE (%)":91.95,
-    "Consumer Insight":"92.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":38,
-    "Ticker":"EMR",
-    "Company":"Emerson",
-    "Period End":"2012-09-30",
-    "Revenue ($B)":24.41,
-    "Net Income ($B)":1.97,
-    "TE (%)":91.94,
-    "Consumer Insight":"91.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":39,
-    "Ticker":"UNP",
-    "Company":"Union Pacific",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":37.74,
-    "Net Income ($B)":3.15,
-    "TE (%)":91.66,
-    "Consumer Insight":"91.7\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":40,
-    "Ticker":"BDX",
-    "Company":"Becton Dickinson",
-    "Period End":"2024-09-30",
-    "Revenue ($B)":20.18,
-    "Net Income ($B)":1.71,
-    "TE (%)":91.55,
-    "Consumer Insight":"91.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":41,
-    "Ticker":"CVX",
-    "Company":"Chevron",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":202.79,
-    "Net Income ($B)":17.66,
-    "TE (%)":91.29,
-    "Consumer Insight":"91.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":42,
-    "Ticker":"UPS",
-    "Company":"UPS",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":65.87,
-    "Net Income ($B)":5.78,
-    "TE (%)":91.22,
-    "Consumer Insight":"91.2\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":43,
-    "Ticker":"NKE",
-    "Company":"Nike",
-    "Period End":"2018-05-31",
-    "Revenue ($B)":36.4,
-    "Net Income ($B)":3.22,
-    "TE (%)":91.16,
-    "Consumer Insight":"91.2\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":44,
-    "Ticker":"T",
-    "Company":"AT&T",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":122.34,
-    "Net Income ($B)":10.95,
-    "TE (%)":91.05,
-    "Consumer Insight":"91.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":45,
-    "Ticker":"PM",
-    "Company":"Philip Morris",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":78.1,
-    "Net Income ($B)":7.06,
-    "TE (%)":90.96,
-    "Consumer Insight":"91.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":46,
-    "Ticker":"IBM",
-    "Company":"IBM",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":62.75,
-    "Net Income ($B)":6.02,
-    "TE (%)":90.4,
-    "Consumer Insight":"90.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":47,
+    "Rank":8,
     "Ticker":"XOM",
     "Company":"ExxonMobil",
     "Period End":"2024-12-31",
     "Revenue ($B)":349.58,
     "Net Income ($B)":33.68,
     "TE (%)":90.37,
-    "Consumer Insight":"90.4\u00a2 of $1 becomes real value"
+    "CTE (%)":90.37,
+    "Consumer Insight":"90.4\u00a2 TE | 90.4\u00a2 CTE"
   },
   {
-    "Rank":48,
-    "Ticker":"SBUX",
-    "Company":"Starbucks",
-    "Period End":"2024-09-29",
-    "Revenue ($B)":36.18,
-    "Net Income ($B)":3.76,
-    "TE (%)":89.6,
-    "Consumer Insight":"89.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":49,
-    "Ticker":"ACN",
-    "Company":"Accenture",
-    "Period End":"2025-08-31",
-    "Revenue ($B)":69.67,
-    "Net Income ($B)":7.68,
-    "TE (%)":88.98,
-    "Consumer Insight":"89.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":50,
+    "Rank":9,
     "Ticker":"MA",
     "Company":"Mastercard",
     "Period End":"2024-12-31",
     "Revenue ($B)":28.17,
     "Net Income ($B)":3.12,
     "TE (%)":88.94,
-    "Consumer Insight":"88.9\u00a2 of $1 becomes real value"
+    "CTE (%)":88.94,
+    "Consumer Insight":"88.9\u00a2 TE | 88.9\u00a2 CTE"
   },
   {
-    "Rank":51,
-    "Ticker":"COF",
-    "Company":"Capital One",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":39.11,
-    "Net Income ($B)":4.75,
-    "TE (%)":87.86,
-    "Consumer Insight":"87.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":52,
-    "Ticker":"PCAR",
-    "Company":"PACCAR",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":33.66,
-    "Net Income ($B)":4.16,
-    "TE (%)":87.64,
-    "Consumer Insight":"87.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":53,
-    "Ticker":"PFE",
-    "Company":"Pfizer",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":63.63,
-    "Net Income ($B)":8.03,
-    "TE (%)":87.38,
-    "Consumer Insight":"87.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":54,
-    "Ticker":"KMB",
-    "Company":"Kimberly-Clark",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":20.06,
-    "Net Income ($B)":2.54,
-    "TE (%)":87.31,
-    "Consumer Insight":"87.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":55,
-    "Ticker":"VZ",
-    "Company":"Verizon",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":134.79,
-    "Net Income ($B)":17.51,
-    "TE (%)":87.01,
-    "Consumer Insight":"87.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":56,
+    "Rank":10,
     "Ticker":"AVGO",
     "Company":"Broadcom",
     "Period End":"2020-12-31",
     "Revenue ($B)":6.0,
     "Net Income ($B)":0.81,
     "TE (%)":86.41,
-    "Consumer Insight":"86.4\u00a2 of $1 becomes real value"
+    "CTE (%)":86.41,
+    "Consumer Insight":"86.4\u00a2 TE | 86.4\u00a2 CTE"
   },
   {
-    "Rank":57,
-    "Ticker":"DE",
-    "Company":"Deere",
-    "Period End":"2024-10-27",
-    "Revenue ($B)":51.72,
-    "Net Income ($B)":7.1,
-    "TE (%)":86.27,
-    "Consumer Insight":"86.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":58,
-    "Ticker":"SLB",
-    "Company":"Schlumberger",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":30.44,
-    "Net Income ($B)":4.46,
-    "TE (%)":85.34,
-    "Consumer Insight":"85.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":59,
-    "Ticker":"D",
-    "Company":"Dominion Energy",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":14.46,
-    "Net Income ($B)":2.12,
-    "TE (%)":85.31,
-    "Consumer Insight":"85.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":60,
-    "Ticker":"SHW",
-    "Company":"Sherwin-Williams",
-    "Period End":"2019-12-31",
-    "Revenue ($B)":17.9,
-    "Net Income ($B)":2.68,
-    "TE (%)":85.02,
-    "Consumer Insight":"85.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":61,
-    "Ticker":"ECL",
-    "Company":"Ecolab",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":13.84,
-    "Net Income ($B)":2.11,
-    "TE (%)":84.74,
-    "Consumer Insight":"84.7\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":62,
-    "Ticker":"FIS",
-    "Company":"Fidelity National",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":20.46,
-    "Net Income ($B)":3.13,
-    "TE (%)":84.69,
-    "Consumer Insight":"84.7\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":63,
-    "Ticker":"MDT",
-    "Company":"Medtronic",
-    "Period End":"2018-04-27",
-    "Revenue ($B)":29.95,
-    "Net Income ($B)":4.66,
-    "TE (%)":84.44,
-    "Consumer Insight":"84.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":64,
-    "Ticker":"HON",
-    "Company":"Honeywell",
-    "Period End":"2011-12-31",
-    "Revenue ($B)":36.53,
-    "Net Income ($B)":5.71,
-    "TE (%)":84.38,
-    "Consumer Insight":"84.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":65,
-    "Ticker":"C",
-    "Company":"Citigroup",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":81.14,
-    "Net Income ($B)":12.68,
-    "TE (%)":84.37,
-    "Consumer Insight":"84.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":66,
-    "Ticker":"AMGN",
-    "Company":"Amgen",
-    "Period End":"2020-12-31",
-    "Revenue ($B)":25.42,
-    "Net Income ($B)":4.09,
-    "TE (%)":83.91,
-    "Consumer Insight":"83.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":67,
-    "Ticker":"MMC",
-    "Company":"Marsh & McLennan",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":24.46,
-    "Net Income ($B)":4.06,
-    "TE (%)":83.4,
-    "Consumer Insight":"83.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":68,
-    "Ticker":"CB",
-    "Company":"Chubb",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":55.75,
-    "Net Income ($B)":9.27,
-    "TE (%)":83.37,
-    "Consumer Insight":"83.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":69,
-    "Ticker":"AMT",
-    "Company":"American Tower",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":10.13,
-    "Net Income ($B)":1.69,
-    "TE (%)":83.31,
-    "Consumer Insight":"83.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":70,
-    "Ticker":"COP",
-    "Company":"ConocoPhillips",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":54.74,
-    "Net Income ($B)":9.24,
-    "TE (%)":83.11,
-    "Consumer Insight":"83.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":71,
-    "Ticker":"GE",
-    "Company":"GE",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":38.7,
-    "Net Income ($B)":6.56,
-    "TE (%)":83.06,
-    "Consumer Insight":"83.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":72,
-    "Ticker":"TT",
-    "Company":"Trane Technologies",
-    "Period End":"2011-12-31",
-    "Revenue ($B)":14.78,
-    "Net Income ($B)":2.57,
-    "TE (%)":82.63,
-    "Consumer Insight":"82.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":73,
+    "Rank":11,
     "Ticker":"PG",
     "Company":"Procter & Gamble",
     "Period End":"2025-06-30",
     "Revenue ($B)":84.28,
     "Net Income ($B)":15.97,
     "TE (%)":81.05,
-    "Consumer Insight":"81.0\u00a2 of $1 becomes real value"
+    "CTE (%)":81.05,
+    "Consumer Insight":"81.0\u00a2 TE | 81.0\u00a2 CTE"
   },
   {
-    "Rank":74,
-    "Ticker":"WM",
-    "Company":"Waste Management",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":14.48,
-    "Net Income ($B)":2.75,
-    "TE (%)":81.04,
-    "Consumer Insight":"81.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":75,
-    "Ticker":"DHR",
-    "Company":"Danaher",
-    "Period End":"2018-12-31",
-    "Revenue ($B)":19.89,
-    "Net Income ($B)":3.9,
-    "TE (%)":80.4,
-    "Consumer Insight":"80.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":76,
-    "Ticker":"LIN",
-    "Company":"Linde",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":33.01,
-    "Net Income ($B)":6.57,
-    "TE (%)":80.11,
-    "Consumer Insight":"80.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":77,
-    "Ticker":"CSCO",
-    "Company":"Cisco",
-    "Period End":"2018-07-28",
-    "Revenue ($B)":49.33,
-    "Net Income ($B)":10.18,
-    "TE (%)":79.36,
-    "Consumer Insight":"79.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":78,
-    "Ticker":"ZBH",
-    "Company":"Zimmer Biomet",
-    "Period End":"2010-12-31",
-    "Revenue ($B)":4.22,
-    "Net Income ($B)":0.9,
-    "TE (%)":78.58,
-    "Consumer Insight":"78.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":79,
-    "Ticker":"ORCL",
-    "Company":"Oracle",
-    "Period End":"2025-05-31",
-    "Revenue ($B)":57.4,
-    "Net Income ($B)":12.44,
-    "TE (%)":78.32,
-    "Consumer Insight":"78.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":80,
-    "Ticker":"NFLX",
-    "Company":"Netflix",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":39.0,
-    "Net Income ($B)":8.71,
-    "TE (%)":77.66,
-    "Consumer Insight":"77.7\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":81,
-    "Ticker":"KO",
-    "Company":"Coca-Cola",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":47.06,
-    "Net Income ($B)":10.63,
-    "TE (%)":77.41,
-    "Consumer Insight":"77.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":82,
-    "Ticker":"USB",
-    "Company":"U.S. Bancorp",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":27.45,
-    "Net Income ($B)":6.3,
-    "TE (%)":77.06,
-    "Consumer Insight":"77.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":83,
-    "Ticker":"DUK",
-    "Company":"Duke Energy",
-    "Period End":"2012-12-31",
-    "Revenue ($B)":19.62,
-    "Net Income ($B)":4.52,
-    "TE (%)":76.95,
-    "Consumer Insight":"76.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":84,
-    "Ticker":"WFC",
-    "Company":"Wells Fargo",
-    "Period End":"2019-12-31",
-    "Revenue ($B)":85.06,
-    "Net Income ($B)":19.72,
-    "TE (%)":76.81,
-    "Consumer Insight":"76.8\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":85,
+    "Rank":12,
     "Ticker":"LLY",
     "Company":"Eli Lilly",
     "Period End":"2024-12-31",
     "Revenue ($B)":45.04,
     "Net Income ($B)":10.59,
     "TE (%)":76.49,
-    "Consumer Insight":"76.5\u00a2 of $1 becomes real value"
+    "CTE (%)":76.49,
+    "Consumer Insight":"76.5\u00a2 TE | 76.5\u00a2 CTE"
   },
   {
-    "Rank":86,
-    "Ticker":"ITW",
-    "Company":"Illinois Tool Works",
-    "Period End":"2018-12-31",
-    "Revenue ($B)":14.77,
-    "Net Income ($B)":3.49,
-    "TE (%)":76.38,
-    "Consumer Insight":"76.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":87,
+    "Rank":13,
     "Ticker":"BRK-B",
     "Company":"Berkshire Hathaway",
     "Period End":"2024-12-31",
     "Revenue ($B)":371.43,
     "Net Income ($B)":89.0,
     "TE (%)":76.04,
-    "Consumer Insight":"76.0\u00a2 of $1 becomes real value"
+    "CTE (%)":76.04,
+    "Consumer Insight":"76.0\u00a2 TE | 76.0\u00a2 CTE"
   },
   {
-    "Rank":88,
-    "Ticker":"AON",
-    "Company":"Aon",
-    "Period End":"2018-12-31",
-    "Revenue ($B)":10.77,
-    "Net Income ($B)":2.65,
-    "TE (%)":75.36,
-    "Consumer Insight":"75.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":89,
-    "Ticker":"NSC",
-    "Company":"Norfolk Southern",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":10.55,
-    "Net Income ($B)":2.62,
-    "TE (%)":75.15,
-    "Consumer Insight":"75.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":90,
-    "Ticker":"ADBE",
-    "Company":"Adobe",
-    "Period End":"2024-11-29",
-    "Revenue ($B)":21.5,
-    "Net Income ($B)":5.56,
-    "TE (%)":74.15,
-    "Consumer Insight":"74.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":91,
-    "Ticker":"QCOM",
-    "Company":"Qualcomm",
-    "Period End":"2024-09-29",
-    "Revenue ($B)":38.96,
-    "Net Income ($B)":10.14,
-    "TE (%)":73.97,
-    "Consumer Insight":"74.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":92,
-    "Ticker":"ADI",
-    "Company":"Analog Devices",
-    "Period End":"2018-11-03",
-    "Revenue ($B)":6.2,
-    "Net Income ($B)":1.64,
-    "TE (%)":73.63,
-    "Consumer Insight":"73.6\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":93,
-    "Ticker":"BAC",
-    "Company":"Bank of America",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":101.89,
-    "Net Income ($B)":27.13,
-    "TE (%)":73.37,
-    "Consumer Insight":"73.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":94,
-    "Ticker":"MRK",
-    "Company":"Merck",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":64.17,
-    "Net Income ($B)":17.12,
-    "TE (%)":73.32,
-    "Consumer Insight":"73.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":95,
-    "Ticker":"ZTS",
-    "Company":"Zoetis",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":9.26,
-    "Net Income ($B)":2.49,
-    "TE (%)":73.14,
-    "Consumer Insight":"73.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":96,
-    "Ticker":"EOG",
-    "Company":"EOG Resources",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":23.7,
-    "Net Income ($B)":6.4,
-    "TE (%)":72.98,
-    "Consumer Insight":"73.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":97,
-    "Ticker":"MU",
-    "Company":"Micron",
-    "Period End":"2018-08-30",
-    "Revenue ($B)":30.39,
-    "Net Income ($B)":8.54,
-    "TE (%)":71.9,
-    "Consumer Insight":"71.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":98,
-    "Ticker":"AFL",
-    "Company":"Aflac",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":18.93,
-    "Net Income ($B)":5.44,
-    "TE (%)":71.24,
-    "Consumer Insight":"71.2\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":99,
-    "Ticker":"SCHW",
-    "Company":"Charles Schwab",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":19.61,
-    "Net Income ($B)":5.94,
-    "TE (%)":69.69,
-    "Consumer Insight":"69.7\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":100,
-    "Ticker":"APD",
-    "Company":"Air Products",
-    "Period End":"2024-09-30",
-    "Revenue ($B)":12.1,
-    "Net Income ($B)":3.83,
-    "TE (%)":68.36,
-    "Consumer Insight":"68.4\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":101,
-    "Ticker":"MCD",
-    "Company":"McDonald's",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":25.92,
-    "Net Income ($B)":8.22,
-    "TE (%)":68.28,
-    "Consumer Insight":"68.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":102,
-    "Ticker":"TXN",
-    "Company":"Texas Instruments",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":14.96,
-    "Net Income ($B)":4.8,
-    "TE (%)":67.92,
-    "Consumer Insight":"67.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":103,
+    "Rank":14,
     "Ticker":"JPM",
     "Company":"JPMorgan Chase",
     "Period End":"2024-12-31",
     "Revenue ($B)":177.56,
     "Net Income ($B)":58.47,
     "TE (%)":67.07,
-    "Consumer Insight":"67.1\u00a2 of $1 becomes real value"
+    "CTE (%)":67.07,
+    "Consumer Insight":"67.1\u00a2 TE | 67.1\u00a2 CTE"
   },
   {
-    "Rank":104,
+    "Rank":15,
     "Ticker":"AMZN",
     "Company":"Amazon",
     "Period End":"2017-12-31",
     "Revenue ($B)":177.87,
     "Net Income ($B)":59.25,
     "TE (%)":66.69,
-    "Consumer Insight":"66.7\u00a2 of $1 becomes real value"
+    "CTE (%)":"N\/A",
+    "Consumer Insight":"66.7\u00a2 TE"
   },
   {
-    "Rank":105,
+    "Rank":16,
     "Ticker":"GOOGL",
     "Company":"Alphabet",
     "Period End":"2021-12-31",
     "Revenue ($B)":257.64,
     "Net Income ($B)":100.12,
     "TE (%)":61.14,
-    "Consumer Insight":"61.1\u00a2 of $1 becomes real value"
+    "CTE (%)":-467.66,
+    "Consumer Insight":"61.1\u00a2 TE | -467.7\u00a2 CTE"
   },
   {
-    "Rank":106,
-    "Ticker":"MS",
-    "Company":"Morgan Stanley",
-    "Period End":"2014-12-31",
-    "Revenue ($B)":34.27,
-    "Net Income ($B)":13.39,
-    "TE (%)":60.93,
-    "Consumer Insight":"60.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":107,
+    "Rank":17,
     "Ticker":"AAPL",
     "Company":"Apple",
     "Period End":"2018-09-29",
     "Revenue ($B)":265.6,
     "Net Income ($B)":112.01,
     "TE (%)":57.83,
-    "Consumer Insight":"57.8\u00a2 of $1 becomes real value"
+    "CTE (%)":37.98,
+    "Consumer Insight":"57.8\u00a2 TE | 38.0\u00a2 CTE"
   },
   {
-    "Rank":108,
-    "Ticker":"SPGI",
-    "Company":"S&P Global",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":6.06,
-    "Net Income ($B)":2.63,
-    "TE (%)":56.69,
-    "Consumer Insight":"56.7\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":109,
-    "Ticker":"MO",
-    "Company":"Altria",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":25.58,
-    "Net Income ($B)":11.26,
-    "TE (%)":55.96,
-    "Consumer Insight":"56.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":110,
-    "Ticker":"PSA",
-    "Company":"Public Storage",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":4.7,
-    "Net Income ($B)":2.07,
-    "TE (%)":55.87,
-    "Consumer Insight":"55.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":111,
-    "Ticker":"PLD",
-    "Company":"Prologis",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":8.2,
-    "Net Income ($B)":3.73,
-    "TE (%)":54.5,
-    "Consumer Insight":"54.5\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":112,
-    "Ticker":"SPG",
-    "Company":"Simon Property",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":5.96,
-    "Net Income ($B)":2.73,
-    "TE (%)":54.24,
-    "Consumer Insight":"54.2\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":113,
-    "Ticker":"ABT",
-    "Company":"Abbott",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":27.39,
-    "Net Income ($B)":13.4,
-    "TE (%)":51.07,
-    "Consumer Insight":"51.1\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":114,
-    "Ticker":"BLK",
-    "Company":"BlackRock",
-    "Period End":"2023-12-31",
-    "Revenue ($B)":11.01,
-    "Net Income ($B)":5.5,
-    "TE (%)":50.04,
-    "Consumer Insight":"50.0\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":115,
+    "Rank":18,
     "Ticker":"NVDA",
     "Company":"NVIDIA",
     "Period End":"2025-01-26",
     "Revenue ($B)":130.5,
     "Net Income ($B)":72.88,
     "TE (%)":44.15,
-    "Consumer Insight":"44.2\u00a2 of $1 becomes real value"
+    "CTE (%)":44.15,
+    "Consumer Insight":"44.2\u00a2 TE | 44.2\u00a2 CTE"
   },
   {
-    "Rank":116,
-    "Ticker":"CME",
-    "Company":"CME Group",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":6.13,
-    "Net Income ($B)":3.53,
-    "TE (%)":42.48,
-    "Consumer Insight":"42.5\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":117,
-    "Ticker":"NOW",
-    "Company":"ServiceNow",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":1.93,
-    "Net Income ($B)":1.43,
-    "TE (%)":26.28,
-    "Consumer Insight":"26.3\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":118,
-    "Ticker":"CRM",
-    "Company":"Salesforce",
-    "Period End":"2017-01-31",
-    "Revenue ($B)":8.39,
-    "Net Income ($B)":6.2,
-    "TE (%)":26.16,
-    "Consumer Insight":"26.2\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":119,
+    "Rank":19,
     "Ticker":"V",
     "Company":"Visa",
     "Period End":"2020-09-30",
     "Revenue ($B)":21.85,
     "Net Income ($B)":19.74,
     "TE (%)":9.63,
-    "Consumer Insight":"9.6\u00a2 of $1 becomes real value"
+    "CTE (%)":9.63,
+    "Consumer Insight":"9.6\u00a2 TE | 9.6\u00a2 CTE"
   },
   {
-    "Rank":120,
-    "Ticker":"CTAS",
-    "Company":"Cintas",
-    "Period End":"2020-05-31",
-    "Revenue ($B)":1.62,
-    "Net Income ($B)":1.81,
-    "TE (%)":-11.9,
-    "Consumer Insight":"-11.9\u00a2 of $1 becomes real value"
-  },
-  {
-    "Rank":121,
+    "Rank":20,
     "Ticker":"META",
     "Company":"Meta",
     "Period End":"2017-12-31",
     "Revenue ($B)":40.65,
     "Net Income ($B)":62.36,
     "TE (%)":-53.4,
-    "Consumer Insight":"-53.4\u00a2 of $1 becomes real value"
+    "CTE (%)":-53.4,
+    "Consumer Insight":"-53.4\u00a2 TE | -53.4\u00a2 CTE"
   },
   {
-    "Rank":122,
+    "Rank":21,
     "Ticker":"MSFT",
     "Company":"Microsoft",
     "Period End":"2010-06-30",
     "Revenue ($B)":62.48,
     "Net Income ($B)":101.83,
     "TE (%)":-62.97,
-    "Consumer Insight":"-63.0\u00a2 of $1 becomes real value"
+    "CTE (%)":-62.97,
+    "Consumer Insight":"-63.0\u00a2 TE | -63.0\u00a2 CTE"
   }
 ]
