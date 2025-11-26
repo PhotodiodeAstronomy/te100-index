@@ -433,6 +433,18 @@
   },
   {
     "Rank":37,
+    "Ticker":"BDX",
+    "Company":"Becton",
+    "Period End":"2025-09-30",
+    "Revenue ($B)":21.84,
+    "Consumer Rev ($B)":21.84,
+    "Net Income ($B)":1.68,
+    "TE (%)":92.32,
+    "CTE (%)":92.32,
+    "Insight":"92.3\u00a2 TE | 92.3\u00a2 CTE"
+  },
+  {
+    "Rank":38,
     "Ticker":"GD",
     "Company":"General Dynamics",
     "Period End":"2024-12-31",
@@ -444,7 +456,7 @@
     "Insight":"92.1\u00a2 TE | 92.1\u00a2 CTE"
   },
   {
-    "Rank":38,
+    "Rank":39,
     "Ticker":"UNP",
     "Company":"Union Pacific",
     "Period End":"2017-12-31",
@@ -454,18 +466,6 @@
     "TE (%)":91.66,
     "CTE (%)":91.66,
     "Insight":"91.7\u00a2 TE | 91.7\u00a2 CTE"
-  },
-  {
-    "Rank":39,
-    "Ticker":"BDX",
-    "Company":"Becton",
-    "Period End":"2024-09-30",
-    "Revenue ($B)":20.18,
-    "Consumer Rev ($B)":20.18,
-    "Net Income ($B)":1.71,
-    "TE (%)":91.55,
-    "CTE (%)":91.55,
-    "Insight":"91.6\u00a2 TE | 91.6\u00a2 CTE"
   },
   {
     "Rank":40,
@@ -1093,18 +1093,6 @@
   },
   {
     "Rank":92,
-    "Ticker":"ADI",
-    "Company":"Analog",
-    "Period End":"2018-11-03",
-    "Revenue ($B)":6.2,
-    "Consumer Rev ($B)":6.2,
-    "Net Income ($B)":1.64,
-    "TE (%)":73.63,
-    "CTE (%)":73.63,
-    "Insight":"73.6\u00a2 TE | 73.6\u00a2 CTE"
-  },
-  {
-    "Rank":93,
     "Ticker":"BAC",
     "Company":"Bank of America",
     "Period End":"2024-12-31",
@@ -1116,7 +1104,7 @@
     "Insight":"73.4\u00a2 TE | 73.4\u00a2 CTE"
   },
   {
-    "Rank":94,
+    "Rank":93,
     "Ticker":"MRK",
     "Company":"Merck",
     "Period End":"2024-12-31",
@@ -1128,7 +1116,7 @@
     "Insight":"73.3\u00a2 TE | 73.3\u00a2 CTE"
   },
   {
-    "Rank":95,
+    "Rank":94,
     "Ticker":"ZTS",
     "Company":"Zoetis",
     "Period End":"2024-12-31",
@@ -1140,7 +1128,7 @@
     "Insight":"73.1\u00a2 TE | 73.1\u00a2 CTE"
   },
   {
-    "Rank":96,
+    "Rank":95,
     "Ticker":"EOG",
     "Company":"EOG",
     "Period End":"2024-12-31",
@@ -1152,7 +1140,7 @@
     "Insight":"73.0\u00a2 TE | 73.0\u00a2 CTE"
   },
   {
-    "Rank":97,
+    "Rank":96,
     "Ticker":"MU",
     "Company":"Micron",
     "Period End":"2018-08-30",
@@ -1164,7 +1152,7 @@
     "Insight":"71.9\u00a2 TE | 71.9\u00a2 CTE"
   },
   {
-    "Rank":98,
+    "Rank":97,
     "Ticker":"AFL",
     "Company":"Aflac",
     "Period End":"2024-12-31",
@@ -1176,7 +1164,7 @@
     "Insight":"71.2\u00a2 TE | 71.2\u00a2 CTE"
   },
   {
-    "Rank":99,
+    "Rank":98,
     "Ticker":"SCHW",
     "Company":"Schwab",
     "Period End":"2024-12-31",
@@ -1188,7 +1176,7 @@
     "Insight":"69.7\u00a2 TE | 69.7\u00a2 CTE"
   },
   {
-    "Rank":100,
+    "Rank":99,
     "Ticker":"MCD",
     "Company":"McDonald's",
     "Period End":"2024-12-31",
@@ -1200,7 +1188,7 @@
     "Insight":"68.3\u00a2 TE | 68.3\u00a2 CTE"
   },
   {
-    "Rank":101,
+    "Rank":100,
     "Ticker":"TXN",
     "Company":"Texas Inst.",
     "Period End":"2017-12-31",
@@ -1212,7 +1200,7 @@
     "Insight":"67.9\u00a2 TE | 67.9\u00a2 CTE"
   },
   {
-    "Rank":102,
+    "Rank":101,
     "Ticker":"JPM",
     "Company":"JPMorgan",
     "Period End":"2024-12-31",
@@ -1224,7 +1212,7 @@
     "Insight":"67.1\u00a2 TE | 67.1\u00a2 CTE"
   },
   {
-    "Rank":103,
+    "Rank":102,
     "Ticker":"AMZN",
     "Company":"Amazon",
     "Period End":"2017-12-31",
@@ -1234,6 +1222,18 @@
     "TE (%)":66.69,
     "CTE (%)":66.69,
     "Insight":"66.7\u00a2 TE | 66.7\u00a2 CTE"
+  },
+  {
+    "Rank":103,
+    "Ticker":"ADI",
+    "Company":"Analog",
+    "Period End":"2018-11-03",
+    "Revenue ($B)":6.2,
+    "Consumer Rev ($B)":6.2,
+    "Net Income ($B)":2.27,
+    "TE (%)":63.44,
+    "CTE (%)":63.44,
+    "Insight":"63.4\u00a2 TE | 63.4\u00a2 CTE"
   },
   {
     "Rank":104,
