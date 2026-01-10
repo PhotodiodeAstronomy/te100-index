@@ -289,6 +289,18 @@
   },
   {
     "Rank":25,
+    "Ticker":"HPQ",
+    "Company":"HP",
+    "Period End":"2025-10-31",
+    "Revenue ($B)":55.3,
+    "Consumer Rev ($B)":55.3,
+    "Net Income ($B)":2.53,
+    "TE (%)":95.43,
+    "CTE (%)":95.43,
+    "Insight":"95.4\u00a2 TE | 95.4\u00a2 CTE"
+  },
+  {
+    "Rank":26,
     "Ticker":"SBUX",
     "Company":"Starbucks",
     "Period End":"2025-09-28",
@@ -298,18 +310,6 @@
     "TE (%)":95.01,
     "CTE (%)":95.01,
     "Insight":"95.0\u00a2 TE | 95.0\u00a2 CTE"
-  },
-  {
-    "Rank":26,
-    "Ticker":"HPQ",
-    "Company":"HP",
-    "Period End":"2024-10-31",
-    "Revenue ($B)":53.56,
-    "Consumer Rev ($B)":53.56,
-    "Net Income ($B)":2.77,
-    "TE (%)":94.82,
-    "CTE (%)":94.82,
-    "Insight":"94.8\u00a2 TE | 94.8\u00a2 CTE"
   },
   {
     "Rank":27,
@@ -577,6 +577,18 @@
   },
   {
     "Rank":49,
+    "Ticker":"DE",
+    "Company":"Deere",
+    "Period End":"2025-11-02",
+    "Revenue ($B)":45.68,
+    "Consumer Rev ($B)":45.68,
+    "Net Income ($B)":5.03,
+    "TE (%)":89.0,
+    "CTE (%)":89.0,
+    "Insight":"89.0\u00a2 TE | 89.0\u00a2 CTE"
+  },
+  {
+    "Rank":50,
     "Ticker":"ACN",
     "Company":"Accenture",
     "Period End":"2025-08-31",
@@ -588,7 +600,7 @@
     "Insight":"89.0\u00a2 TE | 89.0\u00a2 CTE"
   },
   {
-    "Rank":50,
+    "Rank":51,
     "Ticker":"MA",
     "Company":"Mastercard",
     "Period End":"2024-12-31",
@@ -600,7 +612,7 @@
     "Insight":"88.9\u00a2 TE | 88.9\u00a2 CTE"
   },
   {
-    "Rank":51,
+    "Rank":52,
     "Ticker":"COF",
     "Company":"Capital One",
     "Period End":"2024-12-31",
@@ -612,7 +624,7 @@
     "Insight":"87.9\u00a2 TE | 87.9\u00a2 CTE"
   },
   {
-    "Rank":52,
+    "Rank":53,
     "Ticker":"PCAR",
     "Company":"PACCAR",
     "Period End":"2024-12-31",
@@ -624,7 +636,7 @@
     "Insight":"87.6\u00a2 TE | 87.6\u00a2 CTE"
   },
   {
-    "Rank":53,
+    "Rank":54,
     "Ticker":"QCOM",
     "Company":"Qualcomm",
     "Period End":"2025-09-28",
@@ -636,7 +648,7 @@
     "Insight":"87.5\u00a2 TE | 87.5\u00a2 CTE"
   },
   {
-    "Rank":54,
+    "Rank":55,
     "Ticker":"PFE",
     "Company":"Pfizer",
     "Period End":"2024-12-31",
@@ -648,7 +660,7 @@
     "Insight":"87.4\u00a2 TE | 87.4\u00a2 CTE"
   },
   {
-    "Rank":55,
+    "Rank":56,
     "Ticker":"KMB",
     "Company":"Kimberly-Clark",
     "Period End":"2024-12-31",
@@ -660,7 +672,7 @@
     "Insight":"87.3\u00a2 TE | 87.3\u00a2 CTE"
   },
   {
-    "Rank":56,
+    "Rank":57,
     "Ticker":"VZ",
     "Company":"Verizon",
     "Period End":"2024-12-31",
@@ -672,7 +684,7 @@
     "Insight":"87.0\u00a2 TE | 87.0\u00a2 CTE"
   },
   {
-    "Rank":57,
+    "Rank":58,
     "Ticker":"DIS",
     "Company":"Disney",
     "Period End":"2025-09-27",
@@ -684,7 +696,7 @@
     "Insight":"86.9\u00a2 TE | 81.0\u00a2 CTE"
   },
   {
-    "Rank":58,
+    "Rank":59,
     "Ticker":"AVGO",
     "Company":"Broadcom",
     "Period End":"2020-12-31",
@@ -694,18 +706,6 @@
     "TE (%)":86.41,
     "CTE (%)":86.41,
     "Insight":"86.4\u00a2 TE | 86.4\u00a2 CTE"
-  },
-  {
-    "Rank":59,
-    "Ticker":"DE",
-    "Company":"Deere",
-    "Period End":"2024-10-27",
-    "Revenue ($B)":51.72,
-    "Consumer Rev ($B)":51.72,
-    "Net Income ($B)":7.1,
-    "TE (%)":86.27,
-    "CTE (%)":86.27,
-    "Insight":"86.3\u00a2 TE | 86.3\u00a2 CTE"
   },
   {
     "Rank":60,
