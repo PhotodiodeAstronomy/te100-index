@@ -1081,18 +1081,6 @@
   },
   {
     "Rank":91,
-    "Ticker":"ADBE",
-    "Company":"Adobe",
-    "Period End":"2024-11-29",
-    "Revenue ($B)":21.5,
-    "Consumer Rev ($B)":21.5,
-    "Net Income ($B)":5.56,
-    "TE (%)":74.15,
-    "CTE (%)":74.15,
-    "Insight":"74.1\u00a2 TE | 74.1\u00a2 CTE"
-  },
-  {
-    "Rank":92,
     "Ticker":"BAC",
     "Company":"Bank of America",
     "Period End":"2024-12-31",
@@ -1104,7 +1092,7 @@
     "Insight":"73.4\u00a2 TE | 73.4\u00a2 CTE"
   },
   {
-    "Rank":93,
+    "Rank":92,
     "Ticker":"MRK",
     "Company":"Merck",
     "Period End":"2024-12-31",
@@ -1116,7 +1104,7 @@
     "Insight":"73.3\u00a2 TE | 73.3\u00a2 CTE"
   },
   {
-    "Rank":94,
+    "Rank":93,
     "Ticker":"ZTS",
     "Company":"Zoetis",
     "Period End":"2024-12-31",
@@ -1128,7 +1116,7 @@
     "Insight":"73.1\u00a2 TE | 73.1\u00a2 CTE"
   },
   {
-    "Rank":95,
+    "Rank":94,
     "Ticker":"EOG",
     "Company":"EOG",
     "Period End":"2024-12-31",
@@ -1140,7 +1128,7 @@
     "Insight":"73.0\u00a2 TE | 73.0\u00a2 CTE"
   },
   {
-    "Rank":96,
+    "Rank":95,
     "Ticker":"MU",
     "Company":"Micron",
     "Period End":"2018-08-30",
@@ -1152,7 +1140,7 @@
     "Insight":"71.9\u00a2 TE | 71.9\u00a2 CTE"
   },
   {
-    "Rank":97,
+    "Rank":96,
     "Ticker":"AFL",
     "Company":"Aflac",
     "Period End":"2024-12-31",
@@ -1162,6 +1150,18 @@
     "TE (%)":71.24,
     "CTE (%)":71.24,
     "Insight":"71.2\u00a2 TE | 71.2\u00a2 CTE"
+  },
+  {
+    "Rank":97,
+    "Ticker":"ADBE",
+    "Company":"Adobe",
+    "Period End":"2025-11-28",
+    "Revenue ($B)":23.77,
+    "Consumer Rev ($B)":23.77,
+    "Net Income ($B)":7.13,
+    "TE (%)":70.0,
+    "CTE (%)":70.0,
+    "Insight":"70.0\u00a2 TE | 70.0\u00a2 CTE"
   },
   {
     "Rank":98,
