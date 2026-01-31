@@ -37,18 +37,6 @@
   },
   {
     "Rank":4,
-    "Ticker":"BA",
-    "Company":"Boeing",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":66.52,
-    "Consumer Rev ($B)":66.52,
-    "Net Income ($B)":-11.82,
-    "TE (%)":117.77,
-    "CTE (%)":117.77,
-    "Insight":"117.8\u00a2 TE | 117.8\u00a2 CTE"
-  },
-  {
-    "Rank":5,
     "Ticker":"DLTR",
     "Company":"Dollar Tree",
     "Period End":"2025-02-01",
@@ -60,7 +48,7 @@
     "Insight":"117.2\u00a2 TE | 117.2\u00a2 CTE"
   },
   {
-    "Rank":6,
+    "Rank":5,
     "Ticker":"AIG",
     "Company":"AIG",
     "Period End":"2024-12-31",
@@ -72,7 +60,7 @@
     "Insight":"105.2\u00a2 TE | 105.2\u00a2 CTE"
   },
   {
-    "Rank":7,
+    "Rank":6,
     "Ticker":"APD",
     "Company":"Air Products",
     "Period End":"2025-09-30",
@@ -84,7 +72,7 @@
     "Insight":"103.3\u00a2 TE | 103.3\u00a2 CTE"
   },
   {
-    "Rank":8,
+    "Rank":7,
     "Ticker":"VFC",
     "Company":"VF Corp",
     "Period End":"2020-03-28",
@@ -96,7 +84,7 @@
     "Insight":"101.8\u00a2 TE | 101.8\u00a2 CTE"
   },
   {
-    "Rank":9,
+    "Rank":8,
     "Ticker":"STZ",
     "Company":"Constellation",
     "Period End":"2025-02-28",
@@ -108,7 +96,7 @@
     "Insight":"100.8\u00a2 TE | 100.8\u00a2 CTE"
   },
   {
-    "Rank":10,
+    "Rank":9,
     "Ticker":"INTC",
     "Company":"Intel",
     "Period End":"2017-12-30",
@@ -120,7 +108,7 @@
     "Insight":"100.4\u00a2 TE | 100.4\u00a2 CTE"
   },
   {
-    "Rank":11,
+    "Rank":10,
     "Ticker":"HUM",
     "Company":"Humana",
     "Period End":"2024-12-31",
@@ -132,7 +120,7 @@
     "Insight":"99.0\u00a2 TE | 99.0\u00a2 CTE"
   },
   {
-    "Rank":12,
+    "Rank":11,
     "Ticker":"BKNG",
     "Company":"Booking",
     "Period End":"2024-12-31",
@@ -144,7 +132,7 @@
     "Insight":"98.8\u00a2 TE | 98.8\u00a2 CTE"
   },
   {
-    "Rank":13,
+    "Rank":12,
     "Ticker":"CVS",
     "Company":"CVS Health",
     "Period End":"2024-12-31",
@@ -156,7 +144,7 @@
     "Insight":"98.8\u00a2 TE | 98.8\u00a2 CTE"
   },
   {
-    "Rank":14,
+    "Rank":13,
     "Ticker":"SO",
     "Company":"Southern Co",
     "Period End":"2024-12-31",
@@ -168,7 +156,7 @@
     "Insight":"98.4\u00a2 TE | 98.4\u00a2 CTE"
   },
   {
-    "Rank":15,
+    "Rank":14,
     "Ticker":"KR",
     "Company":"Kroger",
     "Period End":"2025-02-01",
@@ -180,7 +168,7 @@
     "Insight":"98.2\u00a2 TE | 98.2\u00a2 CTE"
   },
   {
-    "Rank":16,
+    "Rank":15,
     "Ticker":"GILD",
     "Company":"Gilead",
     "Period End":"2020-12-31",
@@ -192,7 +180,7 @@
     "Insight":"98.1\u00a2 TE | 98.1\u00a2 CTE"
   },
   {
-    "Rank":17,
+    "Rank":16,
     "Ticker":"ADM",
     "Company":"ADM",
     "Period End":"2024-12-31",
@@ -202,6 +190,18 @@
     "TE (%)":97.9,
     "CTE (%)":97.9,
     "Insight":"97.9\u00a2 TE | 97.9\u00a2 CTE"
+  },
+  {
+    "Rank":17,
+    "Ticker":"BA",
+    "Company":"Boeing",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":89.46,
+    "Consumer Rev ($B)":89.46,
+    "Net Income ($B)":2.23,
+    "TE (%)":97.5,
+    "CTE (%)":97.5,
+    "Insight":"97.5\u00a2 TE | 97.5\u00a2 CTE"
   },
   {
     "Rank":18,
@@ -447,13 +447,13 @@
     "Rank":38,
     "Ticker":"GD",
     "Company":"General Dynamics",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":47.72,
-    "Consumer Rev ($B)":47.72,
-    "Net Income ($B)":3.78,
-    "TE (%)":92.07,
-    "CTE (%)":92.07,
-    "Insight":"92.1\u00a2 TE | 92.1\u00a2 CTE"
+    "Period End":"2025-12-31",
+    "Revenue ($B)":52.55,
+    "Consumer Rev ($B)":52.55,
+    "Net Income ($B)":4.21,
+    "TE (%)":91.99,
+    "CTE (%)":91.99,
+    "Insight":"92.0\u00a2 TE | 92.0\u00a2 CTE"
   },
   {
     "Rank":39,
