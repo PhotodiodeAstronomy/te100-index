@@ -853,18 +853,6 @@
   },
   {
     "Rank":72,
-    "Ticker":"TT",
-    "Company":"Trane",
-    "Period End":"2011-12-31",
-    "Revenue ($B)":14.78,
-    "Consumer Rev ($B)":14.78,
-    "Net Income ($B)":2.57,
-    "TE (%)":82.63,
-    "CTE (%)":82.63,
-    "Insight":"82.6\u00a2 TE | 82.6\u00a2 CTE"
-  },
-  {
-    "Rank":73,
     "Ticker":"PG",
     "Company":"P&G",
     "Period End":"2025-06-30",
@@ -876,7 +864,7 @@
     "Insight":"81.0\u00a2 TE | 81.0\u00a2 CTE"
   },
   {
-    "Rank":74,
+    "Rank":73,
     "Ticker":"WM",
     "Company":"Waste Mgmt",
     "Period End":"2017-12-31",
@@ -888,7 +876,7 @@
     "Insight":"81.0\u00a2 TE | 81.0\u00a2 CTE"
   },
   {
-    "Rank":75,
+    "Rank":74,
     "Ticker":"GE",
     "Company":"GE",
     "Period End":"2025-12-31",
@@ -900,7 +888,7 @@
     "Insight":"81.0\u00a2 TE | 81.0\u00a2 CTE"
   },
   {
-    "Rank":76,
+    "Rank":75,
     "Ticker":"DHR",
     "Company":"Danaher",
     "Period End":"2018-12-31",
@@ -910,6 +898,18 @@
     "TE (%)":80.4,
     "CTE (%)":80.4,
     "Insight":"80.4\u00a2 TE | 80.4\u00a2 CTE"
+  },
+  {
+    "Rank":76,
+    "Ticker":"TT",
+    "Company":"Trane",
+    "Period End":"2011-12-31",
+    "Revenue ($B)":14.78,
+    "Consumer Rev ($B)":14.78,
+    "Net Income ($B)":2.92,
+    "TE (%)":80.26,
+    "CTE (%)":80.26,
+    "Insight":"80.3\u00a2 TE | 80.3\u00a2 CTE"
   },
   {
     "Rank":77,
@@ -1201,6 +1201,18 @@
   },
   {
     "Rank":101,
+    "Ticker":"GOOGL",
+    "Company":"Alphabet",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":402.84,
+    "Consumer Rev ($B)":162.84,
+    "Net Income ($B)":132.17,
+    "TE (%)":67.19,
+    "CTE (%)":18.83,
+    "Insight":"67.2\u00a2 TE | 18.8\u00a2 CTE"
+  },
+  {
+    "Rank":102,
     "Ticker":"JPM",
     "Company":"JPMorgan",
     "Period End":"2024-12-31",
@@ -1212,7 +1224,7 @@
     "Insight":"67.1\u00a2 TE | 67.1\u00a2 CTE"
   },
   {
-    "Rank":102,
+    "Rank":103,
     "Ticker":"AMZN",
     "Company":"Amazon",
     "Period End":"2017-12-31",
@@ -1224,7 +1236,7 @@
     "Insight":"66.7\u00a2 TE | 66.7\u00a2 CTE"
   },
   {
-    "Rank":103,
+    "Rank":104,
     "Ticker":"ADI",
     "Company":"Analog",
     "Period End":"2018-11-03",
@@ -1234,18 +1246,6 @@
     "TE (%)":63.44,
     "CTE (%)":63.44,
     "Insight":"63.4\u00a2 TE | 63.4\u00a2 CTE"
-  },
-  {
-    "Rank":104,
-    "Ticker":"GOOGL",
-    "Company":"Alphabet",
-    "Period End":"2021-12-31",
-    "Revenue ($B)":257.64,
-    "Consumer Rev ($B)":17.64,
-    "Net Income ($B)":100.12,
-    "TE (%)":61.14,
-    "CTE (%)":-467.66,
-    "Insight":"61.1\u00a2 TE | -467.7\u00a2 CTE"
   },
   {
     "Rank":105,
