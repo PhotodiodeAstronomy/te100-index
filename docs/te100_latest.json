@@ -109,6 +109,18 @@
   },
   {
     "Rank":10,
+    "Ticker":"CVS",
+    "Company":"CVS Health",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":402.07,
+    "Consumer Rev ($B)":402.07,
+    "Net Income ($B)":1.77,
+    "TE (%)":99.56,
+    "CTE (%)":99.56,
+    "Insight":"99.6\u00a2 TE | 99.6\u00a2 CTE"
+  },
+  {
+    "Rank":11,
     "Ticker":"HUM",
     "Company":"Humana",
     "Period End":"2024-12-31",
@@ -120,7 +132,7 @@
     "Insight":"99.0\u00a2 TE | 99.0\u00a2 CTE"
   },
   {
-    "Rank":11,
+    "Rank":12,
     "Ticker":"BKNG",
     "Company":"Booking",
     "Period End":"2024-12-31",
@@ -129,18 +141,6 @@
     "Net Income ($B)":0.29,
     "TE (%)":98.78,
     "CTE (%)":98.78,
-    "Insight":"98.8\u00a2 TE | 98.8\u00a2 CTE"
-  },
-  {
-    "Rank":12,
-    "Ticker":"CVS",
-    "Company":"CVS Health",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":372.81,
-    "Consumer Rev ($B)":372.81,
-    "Net Income ($B)":4.61,
-    "TE (%)":98.76,
-    "CTE (%)":98.76,
     "Insight":"98.8\u00a2 TE | 98.8\u00a2 CTE"
   },
   {
