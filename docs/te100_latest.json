@@ -37,18 +37,6 @@
   },
   {
     "Rank":4,
-    "Ticker":"AIG",
-    "Company":"AIG",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":27.25,
-    "Consumer Rev ($B)":27.25,
-    "Net Income ($B)":-1.4,
-    "TE (%)":105.15,
-    "CTE (%)":105.15,
-    "Insight":"105.2\u00a2 TE | 105.2\u00a2 CTE"
-  },
-  {
-    "Rank":5,
     "Ticker":"APD",
     "Company":"Air Products",
     "Period End":"2025-09-30",
@@ -60,7 +48,7 @@
     "Insight":"103.3\u00a2 TE | 103.3\u00a2 CTE"
   },
   {
-    "Rank":6,
+    "Rank":5,
     "Ticker":"VFC",
     "Company":"VF Corp",
     "Period End":"2020-03-28",
@@ -72,7 +60,7 @@
     "Insight":"101.8\u00a2 TE | 101.8\u00a2 CTE"
   },
   {
-    "Rank":7,
+    "Rank":6,
     "Ticker":"STZ",
     "Company":"Constellation",
     "Period End":"2025-02-28",
@@ -84,7 +72,7 @@
     "Insight":"100.8\u00a2 TE | 100.8\u00a2 CTE"
   },
   {
-    "Rank":8,
+    "Rank":7,
     "Ticker":"INTC",
     "Company":"Intel",
     "Period End":"2017-12-30",
@@ -96,7 +84,7 @@
     "Insight":"100.4\u00a2 TE | 100.4\u00a2 CTE"
   },
   {
-    "Rank":9,
+    "Rank":8,
     "Ticker":"CVS",
     "Company":"CVS Health",
     "Period End":"2025-12-31",
@@ -108,7 +96,7 @@
     "Insight":"99.6\u00a2 TE | 99.6\u00a2 CTE"
   },
   {
-    "Rank":10,
+    "Rank":9,
     "Ticker":"HUM",
     "Company":"Humana",
     "Period End":"2024-12-31",
@@ -120,7 +108,7 @@
     "Insight":"99.0\u00a2 TE | 99.0\u00a2 CTE"
   },
   {
-    "Rank":11,
+    "Rank":10,
     "Ticker":"BKNG",
     "Company":"Booking",
     "Period End":"2024-12-31",
@@ -132,7 +120,7 @@
     "Insight":"98.8\u00a2 TE | 98.8\u00a2 CTE"
   },
   {
-    "Rank":12,
+    "Rank":11,
     "Ticker":"SO",
     "Company":"Southern Co",
     "Period End":"2024-12-31",
@@ -144,7 +132,7 @@
     "Insight":"98.4\u00a2 TE | 98.4\u00a2 CTE"
   },
   {
-    "Rank":13,
+    "Rank":12,
     "Ticker":"KR",
     "Company":"Kroger",
     "Period End":"2025-02-01",
@@ -156,7 +144,7 @@
     "Insight":"98.2\u00a2 TE | 98.2\u00a2 CTE"
   },
   {
-    "Rank":14,
+    "Rank":13,
     "Ticker":"GILD",
     "Company":"Gilead",
     "Period End":"2020-12-31",
@@ -168,7 +156,7 @@
     "Insight":"98.1\u00a2 TE | 98.1\u00a2 CTE"
   },
   {
-    "Rank":15,
+    "Rank":14,
     "Ticker":"ADM",
     "Company":"ADM",
     "Period End":"2024-12-31",
@@ -180,7 +168,7 @@
     "Insight":"97.9\u00a2 TE | 97.9\u00a2 CTE"
   },
   {
-    "Rank":16,
+    "Rank":15,
     "Ticker":"BA",
     "Company":"Boeing",
     "Period End":"2025-12-31",
@@ -192,7 +180,7 @@
     "Insight":"97.5\u00a2 TE | 97.5\u00a2 CTE"
   },
   {
-    "Rank":17,
+    "Rank":16,
     "Ticker":"BJ",
     "Company":"BJ's",
     "Period End":"2025-02-01",
@@ -204,7 +192,7 @@
     "Insight":"97.4\u00a2 TE | 97.4\u00a2 CTE"
   },
   {
-    "Rank":18,
+    "Rank":17,
     "Ticker":"ELV",
     "Company":"Elevance",
     "Period End":"2025-12-31",
@@ -216,7 +204,7 @@
     "Insight":"97.2\u00a2 TE | 97.2\u00a2 CTE"
   },
   {
-    "Rank":19,
+    "Rank":18,
     "Ticker":"WMT",
     "Company":"Walmart",
     "Period End":"2025-01-31",
@@ -228,7 +216,7 @@
     "Insight":"97.1\u00a2 TE | 97.1\u00a2 CTE"
   },
   {
-    "Rank":20,
+    "Rank":19,
     "Ticker":"COST",
     "Company":"Costco",
     "Period End":"2025-08-31",
@@ -240,7 +228,7 @@
     "Insight":"97.1\u00a2 TE | 97.1\u00a2 CTE"
   },
   {
-    "Rank":21,
+    "Rank":20,
     "Ticker":"CCI",
     "Company":"Crown Castle",
     "Period End":"2024-12-31",
@@ -252,7 +240,7 @@
     "Insight":"96.8\u00a2 TE | 96.8\u00a2 CTE"
   },
   {
-    "Rank":22,
+    "Rank":21,
     "Ticker":"UNH",
     "Company":"UnitedHealth",
     "Period End":"2024-12-31",
@@ -264,7 +252,7 @@
     "Insight":"96.4\u00a2 TE | 96.4\u00a2 CTE"
   },
   {
-    "Rank":23,
+    "Rank":22,
     "Ticker":"TSLA",
     "Company":"Tesla",
     "Period End":"2025-12-31",
@@ -276,7 +264,7 @@
     "Insight":"96.0\u00a2 TE | 96.0\u00a2 CTE"
   },
   {
-    "Rank":24,
+    "Rank":23,
     "Ticker":"CAT",
     "Company":"Caterpillar",
     "Period End":"2024-12-31",
@@ -288,7 +276,7 @@
     "Insight":"95.8\u00a2 TE | 95.8\u00a2 CTE"
   },
   {
-    "Rank":25,
+    "Rank":24,
     "Ticker":"HPQ",
     "Company":"HP",
     "Period End":"2025-10-31",
@@ -300,7 +288,7 @@
     "Insight":"95.4\u00a2 TE | 95.4\u00a2 CTE"
   },
   {
-    "Rank":26,
+    "Rank":25,
     "Ticker":"SBUX",
     "Company":"Starbucks",
     "Period End":"2025-09-28",
@@ -310,6 +298,18 @@
     "TE (%)":95.01,
     "CTE (%)":95.01,
     "Insight":"95.0\u00a2 TE | 95.0\u00a2 CTE"
+  },
+  {
+    "Rank":26,
+    "Ticker":"TGT",
+    "Company":"Target",
+    "Period End":"2015-01-31",
+    "Revenue ($B)":72.62,
+    "Consumer Rev ($B)":72.62,
+    "Net Income ($B)":4.09,
+    "TE (%)":94.37,
+    "CTE (%)":94.37,
+    "Insight":"94.4\u00a2 TE | 94.4\u00a2 CTE"
   },
   {
     "Rank":27,
@@ -325,18 +325,6 @@
   },
   {
     "Rank":28,
-    "Ticker":"TGT",
-    "Company":"Target",
-    "Period End":"2015-01-31",
-    "Revenue ($B)":72.62,
-    "Consumer Rev ($B)":72.62,
-    "Net Income ($B)":4.09,
-    "TE (%)":94.37,
-    "CTE (%)":94.37,
-    "Insight":"94.4\u00a2 TE | 94.4\u00a2 CTE"
-  },
-  {
-    "Rank":29,
     "Ticker":"TMO",
     "Company":"Thermo Fisher",
     "Period End":"2017-12-31",
@@ -348,7 +336,7 @@
     "Insight":"93.9\u00a2 TE | 93.9\u00a2 CTE"
   },
   {
-    "Rank":30,
+    "Rank":29,
     "Ticker":"FDX",
     "Company":"FedEx",
     "Period End":"2018-05-31",
@@ -360,7 +348,7 @@
     "Insight":"93.7\u00a2 TE | 93.7\u00a2 CTE"
   },
   {
-    "Rank":31,
+    "Rank":30,
     "Ticker":"LMT",
     "Company":"Lockheed",
     "Period End":"2025-12-31",
@@ -372,7 +360,7 @@
     "Insight":"93.3\u00a2 TE | 93.3\u00a2 CTE"
   },
   {
-    "Rank":32,
+    "Rank":31,
     "Ticker":"ALL",
     "Company":"Allstate",
     "Period End":"2024-12-31",
@@ -384,7 +372,7 @@
     "Insight":"92.7\u00a2 TE | 92.7\u00a2 CTE"
   },
   {
-    "Rank":33,
+    "Rank":32,
     "Ticker":"PPG",
     "Company":"PPG",
     "Period End":"2013-12-31",
@@ -396,7 +384,7 @@
     "Insight":"92.6\u00a2 TE | 92.6\u00a2 CTE"
   },
   {
-    "Rank":34,
+    "Rank":33,
     "Ticker":"ABBV",
     "Company":"AbbVie",
     "Period End":"2024-12-31",
@@ -408,7 +396,7 @@
     "Insight":"92.4\u00a2 TE | 92.4\u00a2 CTE"
   },
   {
-    "Rank":35,
+    "Rank":34,
     "Ticker":"BDX",
     "Company":"Becton",
     "Period End":"2025-09-30",
@@ -420,7 +408,7 @@
     "Insight":"92.3\u00a2 TE | 92.3\u00a2 CTE"
   },
   {
-    "Rank":36,
+    "Rank":35,
     "Ticker":"GD",
     "Company":"General Dynamics",
     "Period End":"2025-12-31",
@@ -432,19 +420,7 @@
     "Insight":"92.0\u00a2 TE | 92.0\u00a2 CTE"
   },
   {
-    "Rank":37,
-    "Ticker":"UNP",
-    "Company":"Union Pacific",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":37.74,
-    "Consumer Rev ($B)":37.74,
-    "Net Income ($B)":3.15,
-    "TE (%)":91.66,
-    "CTE (%)":91.66,
-    "Insight":"91.7\u00a2 TE | 91.7\u00a2 CTE"
-  },
-  {
-    "Rank":38,
+    "Rank":36,
     "Ticker":"RTX",
     "Company":"RTX",
     "Period End":"2024-12-31",
@@ -456,7 +432,7 @@
     "Insight":"91.7\u00a2 TE | 91.7\u00a2 CTE"
   },
   {
-    "Rank":39,
+    "Rank":37,
     "Ticker":"CVX",
     "Company":"Chevron",
     "Period End":"2024-12-31",
@@ -468,7 +444,7 @@
     "Insight":"91.3\u00a2 TE | 91.3\u00a2 CTE"
   },
   {
-    "Rank":40,
+    "Rank":38,
     "Ticker":"UPS",
     "Company":"UPS",
     "Period End":"2017-12-31",
@@ -480,7 +456,7 @@
     "Insight":"91.2\u00a2 TE | 91.2\u00a2 CTE"
   },
   {
-    "Rank":41,
+    "Rank":39,
     "Ticker":"NKE",
     "Company":"Nike",
     "Period End":"2018-05-31",
@@ -492,7 +468,19 @@
     "Insight":"91.2\u00a2 TE | 91.2\u00a2 CTE"
   },
   {
-    "Rank":42,
+    "Rank":40,
+    "Ticker":"UNP",
+    "Company":"Union Pacific",
+    "Period End":"2017-12-31",
+    "Revenue ($B)":37.74,
+    "Consumer Rev ($B)":37.74,
+    "Net Income ($B)":3.35,
+    "TE (%)":91.11,
+    "CTE (%)":91.11,
+    "Insight":"91.1\u00a2 TE | 91.1\u00a2 CTE"
+  },
+  {
+    "Rank":41,
     "Ticker":"BEN",
     "Company":"Franklin",
     "Period End":"2019-09-30",
@@ -504,7 +492,7 @@
     "Insight":"90.9\u00a2 TE | 90.9\u00a2 CTE"
   },
   {
-    "Rank":43,
+    "Rank":42,
     "Ticker":"EMR",
     "Company":"Emerson",
     "Period End":"2012-09-30",
@@ -516,7 +504,7 @@
     "Insight":"90.6\u00a2 TE | 90.6\u00a2 CTE"
   },
   {
-    "Rank":44,
+    "Rank":43,
     "Ticker":"MA",
     "Company":"Mastercard",
     "Period End":"2025-12-31",
@@ -528,7 +516,7 @@
     "Insight":"90.5\u00a2 TE | 90.5\u00a2 CTE"
   },
   {
-    "Rank":45,
+    "Rank":44,
     "Ticker":"IBM",
     "Company":"IBM",
     "Period End":"2024-12-31",
@@ -540,7 +528,7 @@
     "Insight":"90.4\u00a2 TE | 90.4\u00a2 CTE"
   },
   {
-    "Rank":46,
+    "Rank":45,
     "Ticker":"XOM",
     "Company":"Exxon",
     "Period End":"2024-12-31",
@@ -552,7 +540,7 @@
     "Insight":"90.4\u00a2 TE | 90.4\u00a2 CTE"
   },
   {
-    "Rank":47,
+    "Rank":46,
     "Ticker":"DE",
     "Company":"Deere",
     "Period End":"2025-11-02",
@@ -564,7 +552,7 @@
     "Insight":"89.0\u00a2 TE | 89.0\u00a2 CTE"
   },
   {
-    "Rank":48,
+    "Rank":47,
     "Ticker":"ACN",
     "Company":"Accenture",
     "Period End":"2025-08-31",
@@ -576,7 +564,7 @@
     "Insight":"89.0\u00a2 TE | 89.0\u00a2 CTE"
   },
   {
-    "Rank":49,
+    "Rank":48,
     "Ticker":"SLB",
     "Company":"Schlumberger",
     "Period End":"2017-12-31",
@@ -586,6 +574,18 @@
     "TE (%)":88.92,
     "CTE (%)":88.92,
     "Insight":"88.9\u00a2 TE | 88.9\u00a2 CTE"
+  },
+  {
+    "Rank":49,
+    "Ticker":"AIG",
+    "Company":"AIG",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":26.77,
+    "Consumer Rev ($B)":26.77,
+    "Net Income ($B)":3.1,
+    "TE (%)":88.44,
+    "CTE (%)":88.44,
+    "Insight":"88.4\u00a2 TE | 88.4\u00a2 CTE"
   },
   {
     "Rank":50,
@@ -601,6 +601,18 @@
   },
   {
     "Rank":51,
+    "Ticker":"KMB",
+    "Company":"Kimberly-Clark",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":16.45,
+    "Consumer Rev ($B)":16.45,
+    "Net Income ($B)":2.02,
+    "TE (%)":87.71,
+    "CTE (%)":87.71,
+    "Insight":"87.7\u00a2 TE | 87.7\u00a2 CTE"
+  },
+  {
+    "Rank":52,
     "Ticker":"PCAR",
     "Company":"PACCAR",
     "Period End":"2024-12-31",
@@ -612,7 +624,7 @@
     "Insight":"87.6\u00a2 TE | 87.6\u00a2 CTE"
   },
   {
-    "Rank":52,
+    "Rank":53,
     "Ticker":"QCOM",
     "Company":"Qualcomm",
     "Period End":"2025-09-28",
@@ -624,7 +636,7 @@
     "Insight":"87.5\u00a2 TE | 87.5\u00a2 CTE"
   },
   {
-    "Rank":53,
+    "Rank":54,
     "Ticker":"PFE",
     "Company":"Pfizer",
     "Period End":"2024-12-31",
@@ -634,18 +646,6 @@
     "TE (%)":87.38,
     "CTE (%)":87.38,
     "Insight":"87.4\u00a2 TE | 87.4\u00a2 CTE"
-  },
-  {
-    "Rank":54,
-    "Ticker":"KMB",
-    "Company":"Kimberly-Clark",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":20.06,
-    "Consumer Rev ($B)":20.06,
-    "Net Income ($B)":2.54,
-    "TE (%)":87.31,
-    "CTE (%)":87.31,
-    "Insight":"87.3\u00a2 TE | 87.3\u00a2 CTE"
   },
   {
     "Rank":55,
@@ -1009,18 +1009,6 @@
   },
   {
     "Rank":85,
-    "Ticker":"LLY",
-    "Company":"Eli Lilly",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":45.04,
-    "Consumer Rev ($B)":45.04,
-    "Net Income ($B)":10.59,
-    "TE (%)":76.49,
-    "CTE (%)":76.49,
-    "Insight":"76.5\u00a2 TE | 76.5\u00a2 CTE"
-  },
-  {
-    "Rank":86,
     "Ticker":"ITW",
     "Company":"Illinois Tool",
     "Period End":"2018-12-31",
@@ -1032,7 +1020,7 @@
     "Insight":"76.4\u00a2 TE | 76.4\u00a2 CTE"
   },
   {
-    "Rank":87,
+    "Rank":86,
     "Ticker":"BRK-B",
     "Company":"Berkshire",
     "Period End":"2024-12-31",
@@ -1044,7 +1032,7 @@
     "Insight":"76.0\u00a2 TE | 76.0\u00a2 CTE"
   },
   {
-    "Rank":88,
+    "Rank":87,
     "Ticker":"NFLX",
     "Company":"Netflix",
     "Period End":"2025-12-31",
@@ -1056,7 +1044,7 @@
     "Insight":"75.7\u00a2 TE | 75.7\u00a2 CTE"
   },
   {
-    "Rank":89,
+    "Rank":88,
     "Ticker":"AON",
     "Company":"Aon",
     "Period End":"2018-12-31",
@@ -1068,7 +1056,7 @@
     "Insight":"75.4\u00a2 TE | 75.4\u00a2 CTE"
   },
   {
-    "Rank":90,
+    "Rank":89,
     "Ticker":"BAC",
     "Company":"Bank of America",
     "Period End":"2024-12-31",
@@ -1080,7 +1068,7 @@
     "Insight":"73.4\u00a2 TE | 73.4\u00a2 CTE"
   },
   {
-    "Rank":91,
+    "Rank":90,
     "Ticker":"MRK",
     "Company":"Merck",
     "Period End":"2024-12-31",
@@ -1092,19 +1080,7 @@
     "Insight":"73.3\u00a2 TE | 73.3\u00a2 CTE"
   },
   {
-    "Rank":92,
-    "Ticker":"ZTS",
-    "Company":"Zoetis",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":9.26,
-    "Consumer Rev ($B)":9.26,
-    "Net Income ($B)":2.49,
-    "TE (%)":73.14,
-    "CTE (%)":73.14,
-    "Insight":"73.1\u00a2 TE | 73.1\u00a2 CTE"
-  },
-  {
-    "Rank":93,
+    "Rank":91,
     "Ticker":"EOG",
     "Company":"EOG",
     "Period End":"2024-12-31",
@@ -1116,7 +1092,7 @@
     "Insight":"73.0\u00a2 TE | 73.0\u00a2 CTE"
   },
   {
-    "Rank":94,
+    "Rank":92,
     "Ticker":"NSC",
     "Company":"Norfolk",
     "Period End":"2017-12-31",
@@ -1128,7 +1104,7 @@
     "Insight":"72.8\u00a2 TE | 72.8\u00a2 CTE"
   },
   {
-    "Rank":95,
+    "Rank":93,
     "Ticker":"MU",
     "Company":"Micron",
     "Period End":"2018-08-30",
@@ -1140,7 +1116,19 @@
     "Insight":"71.9\u00a2 TE | 71.9\u00a2 CTE"
   },
   {
-    "Rank":96,
+    "Rank":94,
+    "Ticker":"ZTS",
+    "Company":"Zoetis",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":9.47,
+    "Consumer Rev ($B)":9.47,
+    "Net Income ($B)":2.67,
+    "TE (%)":71.77,
+    "CTE (%)":71.77,
+    "Insight":"71.8\u00a2 TE | 71.8\u00a2 CTE"
+  },
+  {
+    "Rank":95,
     "Ticker":"AFL",
     "Company":"Aflac",
     "Period End":"2024-12-31",
@@ -1152,7 +1140,7 @@
     "Insight":"71.2\u00a2 TE | 71.2\u00a2 CTE"
   },
   {
-    "Rank":97,
+    "Rank":96,
     "Ticker":"ADBE",
     "Company":"Adobe",
     "Period End":"2025-11-28",
@@ -1164,7 +1152,7 @@
     "Insight":"70.0\u00a2 TE | 70.0\u00a2 CTE"
   },
   {
-    "Rank":98,
+    "Rank":97,
     "Ticker":"SCHW",
     "Company":"Schwab",
     "Period End":"2024-12-31",
@@ -1174,6 +1162,18 @@
     "TE (%)":69.69,
     "CTE (%)":69.69,
     "Insight":"69.7\u00a2 TE | 69.7\u00a2 CTE"
+  },
+  {
+    "Rank":98,
+    "Ticker":"LLY",
+    "Company":"Eli Lilly",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":65.18,
+    "Consumer Rev ($B)":65.18,
+    "Net Income ($B)":20.64,
+    "TE (%)":68.33,
+    "CTE (%)":68.33,
+    "Insight":"68.3\u00a2 TE | 68.3\u00a2 CTE"
   },
   {
     "Rank":99,
@@ -1237,6 +1237,18 @@
   },
   {
     "Rank":104,
+    "Ticker":"PSA",
+    "Company":"Public Storage",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":4.82,
+    "Consumer Rev ($B)":4.82,
+    "Net Income ($B)":1.78,
+    "TE (%)":63.01,
+    "CTE (%)":63.01,
+    "Insight":"63.0\u00a2 TE | 63.0\u00a2 CTE"
+  },
+  {
+    "Rank":105,
     "Ticker":"MS",
     "Company":"Morgan Stanley",
     "Period End":"2014-12-31",
@@ -1248,7 +1260,7 @@
     "Insight":"60.9\u00a2 TE | 60.9\u00a2 CTE"
   },
   {
-    "Rank":105,
+    "Rank":106,
     "Ticker":"AAPL",
     "Company":"Apple",
     "Period End":"2018-09-29",
@@ -1260,7 +1272,7 @@
     "Insight":"57.8\u00a2 TE | 38.0\u00a2 CTE"
   },
   {
-    "Rank":106,
+    "Rank":107,
     "Ticker":"AMZN",
     "Company":"Amazon",
     "Period End":"2017-12-31",
@@ -1272,7 +1284,7 @@
     "Insight":"56.3\u00a2 TE | 56.3\u00a2 CTE"
   },
   {
-    "Rank":107,
+    "Rank":108,
     "Ticker":"MO",
     "Company":"Altria",
     "Period End":"2017-12-31",
@@ -1282,18 +1294,6 @@
     "TE (%)":55.96,
     "CTE (%)":55.96,
     "Insight":"56.0\u00a2 TE | 56.0\u00a2 CTE"
-  },
-  {
-    "Rank":108,
-    "Ticker":"PSA",
-    "Company":"Public Storage",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":4.7,
-    "Consumer Rev ($B)":4.7,
-    "Net Income ($B)":2.07,
-    "TE (%)":55.87,
-    "CTE (%)":55.87,
-    "Insight":"55.9\u00a2 TE | 55.9\u00a2 CTE"
   },
   {
     "Rank":109,
