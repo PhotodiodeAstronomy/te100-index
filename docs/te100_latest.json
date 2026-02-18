@@ -109,6 +109,18 @@
   },
   {
     "Rank":10,
+    "Ticker":"ADM",
+    "Company":"ADM",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":80.27,
+    "Consumer Rev ($B)":80.27,
+    "Net Income ($B)":1.08,
+    "TE (%)":98.66,
+    "CTE (%)":98.66,
+    "Insight":"98.7\u00a2 TE | 98.7\u00a2 CTE"
+  },
+  {
+    "Rank":11,
     "Ticker":"SO",
     "Company":"Southern Co",
     "Period End":"2024-12-31",
@@ -120,7 +132,7 @@
     "Insight":"98.4\u00a2 TE | 98.4\u00a2 CTE"
   },
   {
-    "Rank":11,
+    "Rank":12,
     "Ticker":"KR",
     "Company":"Kroger",
     "Period End":"2025-02-01",
@@ -132,7 +144,7 @@
     "Insight":"98.2\u00a2 TE | 98.2\u00a2 CTE"
   },
   {
-    "Rank":12,
+    "Rank":13,
     "Ticker":"GILD",
     "Company":"Gilead",
     "Period End":"2020-12-31",
@@ -142,18 +154,6 @@
     "TE (%)":98.06,
     "CTE (%)":98.06,
     "Insight":"98.1\u00a2 TE | 98.1\u00a2 CTE"
-  },
-  {
-    "Rank":13,
-    "Ticker":"ADM",
-    "Company":"ADM",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":85.53,
-    "Consumer Rev ($B)":85.53,
-    "Net Income ($B)":1.8,
-    "TE (%)":97.9,
-    "CTE (%)":97.9,
-    "Insight":"97.9\u00a2 TE | 97.9\u00a2 CTE"
   },
   {
     "Rank":14,
@@ -421,6 +421,18 @@
   },
   {
     "Rank":36,
+    "Ticker":"UPS",
+    "Company":"UPS",
+    "Period End":"2017-12-31",
+    "Revenue ($B)":65.87,
+    "Consumer Rev ($B)":65.87,
+    "Net Income ($B)":5.57,
+    "TE (%)":91.54,
+    "CTE (%)":91.54,
+    "Insight":"91.5\u00a2 TE | 91.5\u00a2 CTE"
+  },
+  {
+    "Rank":37,
     "Ticker":"CVX",
     "Company":"Chevron",
     "Period End":"2024-12-31",
@@ -430,18 +442,6 @@
     "TE (%)":91.29,
     "CTE (%)":91.29,
     "Insight":"91.3\u00a2 TE | 91.3\u00a2 CTE"
-  },
-  {
-    "Rank":37,
-    "Ticker":"UPS",
-    "Company":"UPS",
-    "Period End":"2017-12-31",
-    "Revenue ($B)":65.87,
-    "Consumer Rev ($B)":65.87,
-    "Net Income ($B)":5.78,
-    "TE (%)":91.22,
-    "CTE (%)":91.22,
-    "Insight":"91.2\u00a2 TE | 91.2\u00a2 CTE"
   },
   {
     "Rank":38,
@@ -613,6 +613,18 @@
   },
   {
     "Rank":52,
+    "Ticker":"VZ",
+    "Company":"Verizon",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":138.19,
+    "Consumer Rev ($B)":138.19,
+    "Net Income ($B)":17.17,
+    "TE (%)":87.57,
+    "CTE (%)":87.57,
+    "Insight":"87.6\u00a2 TE | 87.6\u00a2 CTE"
+  },
+  {
+    "Rank":53,
     "Ticker":"QCOM",
     "Company":"Qualcomm",
     "Period End":"2025-09-28",
@@ -624,7 +636,7 @@
     "Insight":"87.5\u00a2 TE | 87.5\u00a2 CTE"
   },
   {
-    "Rank":53,
+    "Rank":54,
     "Ticker":"PFE",
     "Company":"Pfizer",
     "Period End":"2024-12-31",
@@ -636,19 +648,19 @@
     "Insight":"87.4\u00a2 TE | 87.4\u00a2 CTE"
   },
   {
-    "Rank":54,
-    "Ticker":"VZ",
-    "Company":"Verizon",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":134.79,
-    "Consumer Rev ($B)":134.79,
-    "Net Income ($B)":17.51,
-    "TE (%)":87.01,
-    "CTE (%)":87.01,
-    "Insight":"87.0\u00a2 TE | 87.0\u00a2 CTE"
+    "Rank":55,
+    "Ticker":"HON",
+    "Company":"Honeywell",
+    "Period End":"2011-12-31",
+    "Revenue ($B)":36.53,
+    "Consumer Rev ($B)":36.53,
+    "Net Income ($B)":4.73,
+    "TE (%)":87.05,
+    "CTE (%)":87.05,
+    "Insight":"87.1\u00a2 TE | 87.1\u00a2 CTE"
   },
   {
-    "Rank":55,
+    "Rank":56,
     "Ticker":"DIS",
     "Company":"Disney",
     "Period End":"2025-09-27",
@@ -660,7 +672,19 @@
     "Insight":"86.9\u00a2 TE | 81.0\u00a2 CTE"
   },
   {
-    "Rank":56,
+    "Rank":57,
+    "Ticker":"COP",
+    "Company":"Conoco",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":58.94,
+    "Consumer Rev ($B)":58.94,
+    "Net Income ($B)":7.99,
+    "TE (%)":86.45,
+    "CTE (%)":86.45,
+    "Insight":"86.4\u00a2 TE | 86.4\u00a2 CTE"
+  },
+  {
+    "Rank":58,
     "Ticker":"PM",
     "Company":"Philip Morris",
     "Period End":"2017-12-31",
@@ -672,7 +696,7 @@
     "Insight":"85.5\u00a2 TE | 85.5\u00a2 CTE"
   },
   {
-    "Rank":57,
+    "Rank":59,
     "Ticker":"BMY",
     "Company":"Bristol Myers",
     "Period End":"2025-12-31",
@@ -684,7 +708,7 @@
     "Insight":"85.4\u00a2 TE | 85.4\u00a2 CTE"
   },
   {
-    "Rank":58,
+    "Rank":60,
     "Ticker":"SHW",
     "Company":"Sherwin",
     "Period End":"2019-12-31",
@@ -696,7 +720,7 @@
     "Insight":"85.0\u00a2 TE | 85.0\u00a2 CTE"
   },
   {
-    "Rank":59,
+    "Rank":61,
     "Ticker":"ECL",
     "Company":"Ecolab",
     "Period End":"2017-12-31",
@@ -708,7 +732,7 @@
     "Insight":"84.7\u00a2 TE | 84.7\u00a2 CTE"
   },
   {
-    "Rank":60,
+    "Rank":62,
     "Ticker":"FIS",
     "Company":"Fidelity",
     "Period End":"2024-12-31",
@@ -720,7 +744,7 @@
     "Insight":"84.7\u00a2 TE | 84.7\u00a2 CTE"
   },
   {
-    "Rank":61,
+    "Rank":63,
     "Ticker":"MMC",
     "Company":"Marsh",
     "Period End":"2025-12-31",
@@ -732,7 +756,7 @@
     "Insight":"84.6\u00a2 TE | 84.6\u00a2 CTE"
   },
   {
-    "Rank":62,
+    "Rank":64,
     "Ticker":"MDT",
     "Company":"Medtronic",
     "Period End":"2018-04-27",
@@ -744,19 +768,7 @@
     "Insight":"84.4\u00a2 TE | 84.4\u00a2 CTE"
   },
   {
-    "Rank":63,
-    "Ticker":"HON",
-    "Company":"Honeywell",
-    "Period End":"2011-12-31",
-    "Revenue ($B)":36.53,
-    "Consumer Rev ($B)":36.53,
-    "Net Income ($B)":5.71,
-    "TE (%)":84.38,
-    "CTE (%)":84.38,
-    "Insight":"84.4\u00a2 TE | 84.4\u00a2 CTE"
-  },
-  {
-    "Rank":64,
+    "Rank":65,
     "Ticker":"C",
     "Company":"Citigroup",
     "Period End":"2024-12-31",
@@ -768,7 +780,7 @@
     "Insight":"84.4\u00a2 TE | 84.4\u00a2 CTE"
   },
   {
-    "Rank":65,
+    "Rank":66,
     "Ticker":"CB",
     "Company":"Chubb",
     "Period End":"2024-12-31",
@@ -780,7 +792,7 @@
     "Insight":"83.4\u00a2 TE | 83.4\u00a2 CTE"
   },
   {
-    "Rank":66,
+    "Rank":67,
     "Ticker":"AMT",
     "Company":"American Tower",
     "Period End":"2024-12-31",
@@ -790,18 +802,6 @@
     "TE (%)":83.31,
     "CTE (%)":83.31,
     "Insight":"83.3\u00a2 TE | 83.3\u00a2 CTE"
-  },
-  {
-    "Rank":67,
-    "Ticker":"COP",
-    "Company":"Conoco",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":54.74,
-    "Consumer Rev ($B)":54.74,
-    "Net Income ($B)":9.24,
-    "TE (%)":83.11,
-    "CTE (%)":83.11,
-    "Insight":"83.1\u00a2 TE | 83.1\u00a2 CTE"
   },
   {
     "Rank":68,
