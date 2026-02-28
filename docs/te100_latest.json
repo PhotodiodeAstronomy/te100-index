@@ -757,18 +757,6 @@
   },
   {
     "Rank":64,
-    "Ticker":"CB",
-    "Company":"Chubb",
-    "Period End":"2024-12-31",
-    "Revenue ($B)":55.75,
-    "Consumer Rev ($B)":55.75,
-    "Net Income ($B)":9.27,
-    "TE (%)":83.37,
-    "CTE (%)":83.37,
-    "Insight":"83.4\u00a2 TE | 83.4\u00a2 CTE"
-  },
-  {
-    "Rank":65,
     "Ticker":"ZBH",
     "Company":"Zimmer",
     "Period End":"2010-12-31",
@@ -780,7 +768,7 @@
     "Insight":"83.3\u00a2 TE | 83.3\u00a2 CTE"
   },
   {
-    "Rank":66,
+    "Rank":65,
     "Ticker":"C",
     "Company":"Citigroup",
     "Period End":"2025-12-31",
@@ -790,6 +778,18 @@
     "TE (%)":83.21,
     "CTE (%)":83.21,
     "Insight":"83.2\u00a2 TE | 83.2\u00a2 CTE"
+  },
+  {
+    "Rank":66,
+    "Ticker":"CB",
+    "Company":"Chubb",
+    "Period End":"2025-12-31",
+    "Revenue ($B)":59.4,
+    "Consumer Rev ($B)":59.4,
+    "Net Income ($B)":10.31,
+    "TE (%)":82.64,
+    "CTE (%)":82.64,
+    "Insight":"82.6\u00a2 TE | 82.6\u00a2 CTE"
   },
   {
     "Rank":67,
