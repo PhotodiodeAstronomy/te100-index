@@ -145,18 +145,6 @@
   },
   {
     "Rank":13,
-    "Ticker":"BJ",
-    "Company":"BJ's",
-    "Period End":"2025-02-01",
-    "Revenue ($B)":20.5,
-    "Consumer Rev ($B)":20.5,
-    "Net Income ($B)":0.53,
-    "TE (%)":97.39,
-    "CTE (%)":97.39,
-    "Insight":"97.4\u00a2 TE | 97.4\u00a2 CTE"
-  },
-  {
-    "Rank":14,
     "Ticker":"UNH",
     "Company":"UnitedHealth",
     "Period End":"2025-12-31",
@@ -165,6 +153,18 @@
     "Net Income ($B)":12.06,
     "TE (%)":97.31,
     "CTE (%)":97.31,
+    "Insight":"97.3\u00a2 TE | 97.3\u00a2 CTE"
+  },
+  {
+    "Rank":14,
+    "Ticker":"BJ",
+    "Company":"BJ's",
+    "Period End":"2026-01-31",
+    "Revenue ($B)":21.46,
+    "Consumer Rev ($B)":21.46,
+    "Net Income ($B)":0.58,
+    "TE (%)":97.3,
+    "CTE (%)":97.3,
     "Insight":"97.3\u00a2 TE | 97.3\u00a2 CTE"
   },
   {
