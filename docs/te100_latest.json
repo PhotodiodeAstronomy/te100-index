@@ -13,18 +13,6 @@
   },
   {
     "Rank":2,
-    "Ticker":"DLTR",
-    "Company":"Dollar Tree",
-    "Period End":"2025-02-01",
-    "Revenue ($B)":17.58,
-    "Consumer Rev ($B)":17.58,
-    "Net Income ($B)":-3.03,
-    "TE (%)":117.24,
-    "CTE (%)":117.24,
-    "Insight":"117.2\u00a2 TE | 117.2\u00a2 CTE"
-  },
-  {
-    "Rank":3,
     "Ticker":"APD",
     "Company":"Air Products",
     "Period End":"2025-09-30",
@@ -36,7 +24,7 @@
     "Insight":"103.3\u00a2 TE | 103.3\u00a2 CTE"
   },
   {
-    "Rank":4,
+    "Rank":3,
     "Ticker":"VFC",
     "Company":"VF Corp",
     "Period End":"2020-03-28",
@@ -48,7 +36,7 @@
     "Insight":"101.8\u00a2 TE | 101.8\u00a2 CTE"
   },
   {
-    "Rank":5,
+    "Rank":4,
     "Ticker":"STZ",
     "Company":"Constellation",
     "Period End":"2025-02-28",
@@ -60,7 +48,7 @@
     "Insight":"100.8\u00a2 TE | 100.8\u00a2 CTE"
   },
   {
-    "Rank":6,
+    "Rank":5,
     "Ticker":"INTC",
     "Company":"Intel",
     "Period End":"2017-12-30",
@@ -72,7 +60,7 @@
     "Insight":"100.4\u00a2 TE | 100.4\u00a2 CTE"
   },
   {
-    "Rank":7,
+    "Rank":6,
     "Ticker":"CVS",
     "Company":"CVS Health",
     "Period End":"2025-12-31",
@@ -84,7 +72,7 @@
     "Insight":"99.6\u00a2 TE | 99.6\u00a2 CTE"
   },
   {
-    "Rank":8,
+    "Rank":7,
     "Ticker":"HUM",
     "Company":"Humana",
     "Period End":"2025-12-31",
@@ -96,7 +84,7 @@
     "Insight":"99.1\u00a2 TE | 99.1\u00a2 CTE"
   },
   {
-    "Rank":9,
+    "Rank":8,
     "Ticker":"BKNG",
     "Company":"Booking",
     "Period End":"2025-12-31",
@@ -108,7 +96,7 @@
     "Insight":"98.9\u00a2 TE | 98.9\u00a2 CTE"
   },
   {
-    "Rank":10,
+    "Rank":9,
     "Ticker":"ADM",
     "Company":"ADM",
     "Period End":"2025-12-31",
@@ -120,7 +108,7 @@
     "Insight":"98.7\u00a2 TE | 98.7\u00a2 CTE"
   },
   {
-    "Rank":11,
+    "Rank":10,
     "Ticker":"KR",
     "Company":"Kroger",
     "Period End":"2025-02-01",
@@ -132,7 +120,7 @@
     "Insight":"98.2\u00a2 TE | 98.2\u00a2 CTE"
   },
   {
-    "Rank":12,
+    "Rank":11,
     "Ticker":"BA",
     "Company":"Boeing",
     "Period End":"2025-12-31",
@@ -144,7 +132,7 @@
     "Insight":"97.5\u00a2 TE | 97.5\u00a2 CTE"
   },
   {
-    "Rank":13,
+    "Rank":12,
     "Ticker":"UNH",
     "Company":"UnitedHealth",
     "Period End":"2025-12-31",
@@ -156,7 +144,7 @@
     "Insight":"97.3\u00a2 TE | 97.3\u00a2 CTE"
   },
   {
-    "Rank":14,
+    "Rank":13,
     "Ticker":"BJ",
     "Company":"BJ's",
     "Period End":"2026-01-31",
@@ -168,7 +156,7 @@
     "Insight":"97.3\u00a2 TE | 97.3\u00a2 CTE"
   },
   {
-    "Rank":15,
+    "Rank":14,
     "Ticker":"ELV",
     "Company":"Elevance",
     "Period End":"2025-12-31",
@@ -180,7 +168,7 @@
     "Insight":"97.2\u00a2 TE | 97.2\u00a2 CTE"
   },
   {
-    "Rank":16,
+    "Rank":15,
     "Ticker":"COST",
     "Company":"Costco",
     "Period End":"2025-08-31",
@@ -192,7 +180,7 @@
     "Insight":"97.1\u00a2 TE | 97.1\u00a2 CTE"
   },
   {
-    "Rank":17,
+    "Rank":16,
     "Ticker":"WMT",
     "Company":"Walmart",
     "Period End":"2026-01-31",
@@ -204,7 +192,7 @@
     "Insight":"96.9\u00a2 TE | 96.9\u00a2 CTE"
   },
   {
-    "Rank":18,
+    "Rank":17,
     "Ticker":"CAT",
     "Company":"Caterpillar",
     "Period End":"2025-12-31",
@@ -216,7 +204,7 @@
     "Insight":"96.0\u00a2 TE | 96.0\u00a2 CTE"
   },
   {
-    "Rank":19,
+    "Rank":18,
     "Ticker":"TSLA",
     "Company":"Tesla",
     "Period End":"2025-12-31",
@@ -228,7 +216,7 @@
     "Insight":"96.0\u00a2 TE | 96.0\u00a2 CTE"
   },
   {
-    "Rank":20,
+    "Rank":19,
     "Ticker":"HPQ",
     "Company":"HP",
     "Period End":"2025-10-31",
@@ -240,7 +228,7 @@
     "Insight":"95.4\u00a2 TE | 95.4\u00a2 CTE"
   },
   {
-    "Rank":21,
+    "Rank":20,
     "Ticker":"COF",
     "Company":"Capital One",
     "Period End":"2025-12-31",
@@ -252,7 +240,7 @@
     "Insight":"95.4\u00a2 TE | 95.4\u00a2 CTE"
   },
   {
-    "Rank":22,
+    "Rank":21,
     "Ticker":"SBUX",
     "Company":"Starbucks",
     "Period End":"2025-09-28",
@@ -264,7 +252,7 @@
     "Insight":"95.0\u00a2 TE | 95.0\u00a2 CTE"
   },
   {
-    "Rank":23,
+    "Rank":22,
     "Ticker":"DG",
     "Company":"Dollar General",
     "Period End":"2015-01-31",
@@ -276,7 +264,7 @@
     "Insight":"94.9\u00a2 TE | 94.9\u00a2 CTE"
   },
   {
-    "Rank":24,
+    "Rank":23,
     "Ticker":"TGT",
     "Company":"Target",
     "Period End":"2015-01-31",
@@ -288,7 +276,7 @@
     "Insight":"94.9\u00a2 TE | 94.9\u00a2 CTE"
   },
   {
-    "Rank":25,
+    "Rank":24,
     "Ticker":"FDX",
     "Company":"FedEx",
     "Period End":"2018-05-31",
@@ -300,7 +288,7 @@
     "Insight":"93.7\u00a2 TE | 93.7\u00a2 CTE"
   },
   {
-    "Rank":26,
+    "Rank":25,
     "Ticker":"CVX",
     "Company":"Chevron",
     "Period End":"2025-12-31",
@@ -310,6 +298,18 @@
     "TE (%)":93.49,
     "CTE (%)":93.49,
     "Insight":"93.5\u00a2 TE | 93.5\u00a2 CTE"
+  },
+  {
+    "Rank":26,
+    "Ticker":"DLTR",
+    "Company":"Dollar Tree",
+    "Period End":"2026-01-31",
+    "Revenue ($B)":19.41,
+    "Consumer Rev ($B)":19.41,
+    "Net Income ($B)":1.28,
+    "TE (%)":93.39,
+    "CTE (%)":93.39,
+    "Insight":"93.4\u00a2 TE | 93.4\u00a2 CTE"
   },
   {
     "Rank":27,
