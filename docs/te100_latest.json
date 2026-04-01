@@ -73,6 +73,18 @@
   },
   {
     "Rank":7,
+    "Ticker":"KR",
+    "Company":"Kroger",
+    "Period End":"2026-01-31",
+    "Revenue ($B)":147.64,
+    "Consumer Rev ($B)":147.64,
+    "Net Income ($B)":1.02,
+    "TE (%)":99.31,
+    "CTE (%)":99.31,
+    "Insight":"99.3\u00a2 TE | 99.3\u00a2 CTE"
+  },
+  {
+    "Rank":8,
     "Ticker":"HUM",
     "Company":"Humana",
     "Period End":"2025-12-31",
@@ -84,7 +96,7 @@
     "Insight":"99.1\u00a2 TE | 99.1\u00a2 CTE"
   },
   {
-    "Rank":8,
+    "Rank":9,
     "Ticker":"BKNG",
     "Company":"Booking",
     "Period End":"2025-12-31",
@@ -96,7 +108,7 @@
     "Insight":"98.9\u00a2 TE | 98.9\u00a2 CTE"
   },
   {
-    "Rank":9,
+    "Rank":10,
     "Ticker":"ADM",
     "Company":"ADM",
     "Period End":"2025-12-31",
@@ -106,18 +118,6 @@
     "TE (%)":98.66,
     "CTE (%)":98.66,
     "Insight":"98.7\u00a2 TE | 98.7\u00a2 CTE"
-  },
-  {
-    "Rank":10,
-    "Ticker":"KR",
-    "Company":"Kroger",
-    "Period End":"2025-02-01",
-    "Revenue ($B)":147.12,
-    "Consumer Rev ($B)":147.12,
-    "Net Income ($B)":2.67,
-    "TE (%)":98.19,
-    "CTE (%)":98.19,
-    "Insight":"98.2\u00a2 TE | 98.2\u00a2 CTE"
   },
   {
     "Rank":11,
