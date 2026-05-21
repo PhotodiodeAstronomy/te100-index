@@ -25,18 +25,6 @@
   },
   {
     "Rank":3,
-    "Ticker":"VFC",
-    "Company":"VF Corp",
-    "Period End":"2020-03-28",
-    "Revenue ($B)":10.49,
-    "Consumer Rev ($B)":10.49,
-    "Net Income ($B)":-0.19,
-    "TE (%)":101.81,
-    "CTE (%)":101.81,
-    "Insight":"101.8\u00a2 TE | 101.8\u00a2 CTE"
-  },
-  {
-    "Rank":4,
     "Ticker":"INTC",
     "Company":"Intel",
     "Period End":"2017-12-30",
@@ -48,7 +36,7 @@
     "Insight":"100.4\u00a2 TE | 100.4\u00a2 CTE"
   },
   {
-    "Rank":5,
+    "Rank":4,
     "Ticker":"CVS",
     "Company":"CVS Health",
     "Period End":"2025-12-31",
@@ -60,7 +48,7 @@
     "Insight":"99.6\u00a2 TE | 99.6\u00a2 CTE"
   },
   {
-    "Rank":6,
+    "Rank":5,
     "Ticker":"KR",
     "Company":"Kroger",
     "Period End":"2026-01-31",
@@ -72,7 +60,7 @@
     "Insight":"99.3\u00a2 TE | 99.3\u00a2 CTE"
   },
   {
-    "Rank":7,
+    "Rank":6,
     "Ticker":"HUM",
     "Company":"Humana",
     "Period End":"2025-12-31",
@@ -84,7 +72,7 @@
     "Insight":"99.1\u00a2 TE | 99.1\u00a2 CTE"
   },
   {
-    "Rank":8,
+    "Rank":7,
     "Ticker":"BKNG",
     "Company":"Booking",
     "Period End":"2025-12-31",
@@ -96,7 +84,7 @@
     "Insight":"98.9\u00a2 TE | 98.9\u00a2 CTE"
   },
   {
-    "Rank":9,
+    "Rank":8,
     "Ticker":"ADM",
     "Company":"ADM",
     "Period End":"2025-12-31",
@@ -106,6 +94,18 @@
     "TE (%)":98.66,
     "CTE (%)":98.66,
     "Insight":"98.7\u00a2 TE | 98.7\u00a2 CTE"
+  },
+  {
+    "Rank":9,
+    "Ticker":"VFC",
+    "Company":"VF Corp",
+    "Period End":"2020-03-28",
+    "Revenue ($B)":10.49,
+    "Consumer Rev ($B)":10.49,
+    "Net Income ($B)":0.25,
+    "TE (%)":97.57,
+    "CTE (%)":97.57,
+    "Insight":"97.6\u00a2 TE | 97.6\u00a2 CTE"
   },
   {
     "Rank":10,
