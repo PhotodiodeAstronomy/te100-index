@@ -697,18 +697,6 @@
   },
   {
     "Rank":59,
-    "Ticker":"MDT",
-    "Company":"Medtronic",
-    "Period End":"2018-04-27",
-    "Revenue ($B)":29.95,
-    "Consumer Rev ($B)":29.95,
-    "Net Income ($B)":4.66,
-    "TE (%)":84.44,
-    "CTE (%)":84.44,
-    "Insight":"84.4\u00a2 TE | 84.4\u00a2 CTE"
-  },
-  {
-    "Rank":60,
     "Ticker":"IBM",
     "Company":"IBM",
     "Period End":"2025-12-31",
@@ -720,7 +708,7 @@
     "Insight":"84.3\u00a2 TE | 84.3\u00a2 CTE"
   },
   {
-    "Rank":61,
+    "Rank":60,
     "Ticker":"AMT",
     "Company":"American Tower",
     "Period End":"2025-12-31",
@@ -730,6 +718,18 @@
     "TE (%)":84.12,
     "CTE (%)":84.12,
     "Insight":"84.1\u00a2 TE | 84.1\u00a2 CTE"
+  },
+  {
+    "Rank":61,
+    "Ticker":"MDT",
+    "Company":"Medtronic",
+    "Period End":"2018-04-27",
+    "Revenue ($B)":29.95,
+    "Consumer Rev ($B)":29.95,
+    "Net Income ($B)":4.8,
+    "TE (%)":83.97,
+    "CTE (%)":83.97,
+    "Insight":"84.0\u00a2 TE | 84.0\u00a2 CTE"
   },
   {
     "Rank":62,
