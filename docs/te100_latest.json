@@ -925,18 +925,6 @@
   },
   {
     "Rank":78,
-    "Ticker":"ORCL",
-    "Company":"Oracle",
-    "Period End":"2025-05-31",
-    "Revenue ($B)":57.4,
-    "Consumer Rev ($B)":57.4,
-    "Net Income ($B)":12.44,
-    "TE (%)":78.32,
-    "CTE (%)":78.32,
-    "Insight":"78.3\u00a2 TE | 78.3\u00a2 CTE"
-  },
-  {
-    "Rank":79,
     "Ticker":"EOG",
     "Company":"EOG",
     "Period End":"2025-12-31",
@@ -948,7 +936,7 @@
     "Insight":"78.0\u00a2 TE | 78.0\u00a2 CTE"
   },
   {
-    "Rank":80,
+    "Rank":79,
     "Ticker":"AVGO",
     "Company":"Broadcom",
     "Period End":"2020-12-31",
@@ -960,7 +948,7 @@
     "Insight":"77.5\u00a2 TE | 77.5\u00a2 CTE"
   },
   {
-    "Rank":81,
+    "Rank":80,
     "Ticker":"ABT",
     "Company":"Abbott",
     "Period End":"2017-12-31",
@@ -972,7 +960,7 @@
     "Insight":"76.2\u00a2 TE | 76.2\u00a2 CTE"
   },
   {
-    "Rank":82,
+    "Rank":81,
     "Ticker":"NFLX",
     "Company":"Netflix",
     "Period End":"2025-12-31",
@@ -984,7 +972,7 @@
     "Insight":"75.7\u00a2 TE | 75.7\u00a2 CTE"
   },
   {
-    "Rank":83,
+    "Rank":82,
     "Ticker":"WFC",
     "Company":"Wells Fargo",
     "Period End":"2019-12-31",
@@ -996,7 +984,7 @@
     "Insight":"74.9\u00a2 TE | 74.9\u00a2 CTE"
   },
   {
-    "Rank":84,
+    "Rank":83,
     "Ticker":"DUK",
     "Company":"Duke",
     "Period End":"2012-12-31",
@@ -1006,6 +994,18 @@
     "TE (%)":74.68,
     "CTE (%)":74.68,
     "Insight":"74.7\u00a2 TE | 74.7\u00a2 CTE"
+  },
+  {
+    "Rank":84,
+    "Ticker":"ORCL",
+    "Company":"Oracle",
+    "Period End":"2026-05-31",
+    "Revenue ($B)":67.36,
+    "Consumer Rev ($B)":67.36,
+    "Net Income ($B)":17.09,
+    "TE (%)":74.63,
+    "CTE (%)":74.63,
+    "Insight":"74.6\u00a2 TE | 74.6\u00a2 CTE"
   },
   {
     "Rank":85,
