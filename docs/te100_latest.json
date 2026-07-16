@@ -385,6 +385,18 @@
   },
   {
     "Rank":33,
+    "Ticker":"NKE",
+    "Company":"Nike",
+    "Period End":"2018-05-31",
+    "Revenue ($B)":36.4,
+    "Consumer Rev ($B)":36.4,
+    "Net Income ($B)":3.11,
+    "TE (%)":91.46,
+    "CTE (%)":91.46,
+    "Insight":"91.5\u00a2 TE | 91.5\u00a2 CTE"
+  },
+  {
+    "Rank":34,
     "Ticker":"XOM",
     "Company":"Exxon",
     "Period End":"2025-12-31",
@@ -394,18 +406,6 @@
     "TE (%)":91.32,
     "CTE (%)":91.32,
     "Insight":"91.3\u00a2 TE | 91.3\u00a2 CTE"
-  },
-  {
-    "Rank":34,
-    "Ticker":"NKE",
-    "Company":"Nike",
-    "Period End":"2018-05-31",
-    "Revenue ($B)":36.4,
-    "Consumer Rev ($B)":36.4,
-    "Net Income ($B)":3.22,
-    "TE (%)":91.16,
-    "CTE (%)":91.16,
-    "Insight":"91.2\u00a2 TE | 91.2\u00a2 CTE"
   },
   {
     "Rank":35,
