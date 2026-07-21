@@ -265,18 +265,6 @@
   },
   {
     "Rank":23,
-    "Ticker":"FDX",
-    "Company":"FedEx",
-    "Period End":"2018-05-31",
-    "Revenue ($B)":65.45,
-    "Consumer Rev ($B)":65.45,
-    "Net Income ($B)":4.09,
-    "TE (%)":93.75,
-    "CTE (%)":93.75,
-    "Insight":"93.7\u00a2 TE | 93.7\u00a2 CTE"
-  },
-  {
-    "Rank":24,
     "Ticker":"CVX",
     "Company":"Chevron",
     "Period End":"2025-12-31",
@@ -288,7 +276,7 @@
     "Insight":"93.5\u00a2 TE | 93.5\u00a2 CTE"
   },
   {
-    "Rank":25,
+    "Rank":24,
     "Ticker":"DLTR",
     "Company":"Dollar Tree",
     "Period End":"2026-01-31",
@@ -300,7 +288,7 @@
     "Insight":"93.4\u00a2 TE | 93.4\u00a2 CTE"
   },
   {
-    "Rank":26,
+    "Rank":25,
     "Ticker":"LMT",
     "Company":"Lockheed",
     "Period End":"2025-12-31",
@@ -310,6 +298,18 @@
     "TE (%)":93.31,
     "CTE (%)":93.31,
     "Insight":"93.3\u00a2 TE | 93.3\u00a2 CTE"
+  },
+  {
+    "Rank":26,
+    "Ticker":"FDX",
+    "Company":"FedEx",
+    "Period End":"2018-05-31",
+    "Revenue ($B)":65.45,
+    "Consumer Rev ($B)":65.45,
+    "Net Income ($B)":4.43,
+    "TE (%)":93.23,
+    "CTE (%)":93.23,
+    "Insight":"93.2\u00a2 TE | 93.2\u00a2 CTE"
   },
   {
     "Rank":27,
