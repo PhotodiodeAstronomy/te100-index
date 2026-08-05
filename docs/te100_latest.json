@@ -817,6 +817,18 @@
   },
   {
     "Rank":69,
+    "Ticker":"PG",
+    "Company":"P&G",
+    "Period End":"2026-06-30",
+    "Revenue ($B)":87.03,
+    "Consumer Rev ($B)":87.03,
+    "Net Income ($B)":16.05,
+    "TE (%)":81.56,
+    "CTE (%)":81.56,
+    "Insight":"81.6\u00a2 TE | 81.6\u00a2 CTE"
+  },
+  {
+    "Rank":70,
     "Ticker":"STZ",
     "Company":"Constellation",
     "Period End":"2026-02-28",
@@ -828,7 +840,7 @@
     "Insight":"81.5\u00a2 TE | 81.5\u00a2 CTE"
   },
   {
-    "Rank":70,
+    "Rank":71,
     "Ticker":"WM",
     "Company":"Waste Mgmt",
     "Period End":"2017-12-31",
@@ -838,18 +850,6 @@
     "TE (%)":81.3,
     "CTE (%)":81.3,
     "Insight":"81.3\u00a2 TE | 81.3\u00a2 CTE"
-  },
-  {
-    "Rank":71,
-    "Ticker":"PG",
-    "Company":"P&G",
-    "Period End":"2025-06-30",
-    "Revenue ($B)":84.28,
-    "Consumer Rev ($B)":84.28,
-    "Net Income ($B)":15.97,
-    "TE (%)":81.05,
-    "CTE (%)":81.05,
-    "Insight":"81.0\u00a2 TE | 81.0\u00a2 CTE"
   },
   {
     "Rank":72,
