@@ -889,18 +889,6 @@
   },
   {
     "Rank":75,
-    "Ticker":"CSCO",
-    "Company":"Cisco",
-    "Period End":"2018-07-28",
-    "Revenue ($B)":49.33,
-    "Consumer Rev ($B)":49.33,
-    "Net Income ($B)":10.18,
-    "TE (%)":79.36,
-    "CTE (%)":79.36,
-    "Insight":"79.4\u00a2 TE | 79.4\u00a2 CTE"
-  },
-  {
-    "Rank":76,
     "Ticker":"ITW",
     "Company":"Illinois Tool",
     "Period End":"2018-12-31",
@@ -912,7 +900,7 @@
     "Insight":"79.2\u00a2 TE | 79.2\u00a2 CTE"
   },
   {
-    "Rank":77,
+    "Rank":76,
     "Ticker":"AFL",
     "Company":"Aflac",
     "Period End":"2025-12-31",
@@ -924,7 +912,7 @@
     "Insight":"78.8\u00a2 TE | 78.8\u00a2 CTE"
   },
   {
-    "Rank":78,
+    "Rank":77,
     "Ticker":"EOG",
     "Company":"EOG",
     "Period End":"2025-12-31",
@@ -936,7 +924,7 @@
     "Insight":"78.0\u00a2 TE | 78.0\u00a2 CTE"
   },
   {
-    "Rank":79,
+    "Rank":78,
     "Ticker":"AVGO",
     "Company":"Broadcom",
     "Period End":"2020-12-31",
@@ -948,7 +936,7 @@
     "Insight":"77.5\u00a2 TE | 77.5\u00a2 CTE"
   },
   {
-    "Rank":80,
+    "Rank":79,
     "Ticker":"ABT",
     "Company":"Abbott",
     "Period End":"2017-12-31",
@@ -960,7 +948,7 @@
     "Insight":"76.2\u00a2 TE | 76.2\u00a2 CTE"
   },
   {
-    "Rank":81,
+    "Rank":80,
     "Ticker":"NFLX",
     "Company":"Netflix",
     "Period End":"2025-12-31",
@@ -972,7 +960,7 @@
     "Insight":"75.7\u00a2 TE | 75.7\u00a2 CTE"
   },
   {
-    "Rank":82,
+    "Rank":81,
     "Ticker":"WFC",
     "Company":"Wells Fargo",
     "Period End":"2019-12-31",
@@ -984,7 +972,7 @@
     "Insight":"74.9\u00a2 TE | 74.9\u00a2 CTE"
   },
   {
-    "Rank":83,
+    "Rank":82,
     "Ticker":"DUK",
     "Company":"Duke",
     "Period End":"2012-12-31",
@@ -996,7 +984,7 @@
     "Insight":"74.7\u00a2 TE | 74.7\u00a2 CTE"
   },
   {
-    "Rank":84,
+    "Rank":83,
     "Ticker":"ORCL",
     "Company":"Oracle",
     "Period End":"2026-05-31",
@@ -1008,7 +996,7 @@
     "Insight":"74.6\u00a2 TE | 74.6\u00a2 CTE"
   },
   {
-    "Rank":85,
+    "Rank":84,
     "Ticker":"USB",
     "Company":"U.S. Bancorp",
     "Period End":"2025-12-31",
@@ -1018,6 +1006,18 @@
     "TE (%)":73.58,
     "CTE (%)":73.58,
     "Insight":"73.6\u00a2 TE | 73.6\u00a2 CTE"
+  },
+  {
+    "Rank":85,
+    "Ticker":"CSCO",
+    "Company":"Cisco",
+    "Period End":"2018-07-28",
+    "Revenue ($B)":49.33,
+    "Consumer Rev ($B)":49.33,
+    "Net Income ($B)":13.27,
+    "TE (%)":73.11,
+    "CTE (%)":73.11,
+    "Insight":"73.1\u00a2 TE | 73.1\u00a2 CTE"
   },
   {
     "Rank":86,
