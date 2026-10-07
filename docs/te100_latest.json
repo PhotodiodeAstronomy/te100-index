@@ -157,18 +157,6 @@
   },
   {
     "Rank":14,
-    "Ticker":"COST",
-    "Company":"Costco",
-    "Period End":"2025-08-31",
-    "Revenue ($B)":275.24,
-    "Consumer Rev ($B)":275.24,
-    "Net Income ($B)":8.1,
-    "TE (%)":97.06,
-    "CTE (%)":97.06,
-    "Insight":"97.1\u00a2 TE | 97.1\u00a2 CTE"
-  },
-  {
-    "Rank":15,
     "Ticker":"WMT",
     "Company":"Walmart",
     "Period End":"2026-01-31",
@@ -178,6 +166,18 @@
     "TE (%)":96.93,
     "CTE (%)":96.93,
     "Insight":"96.9\u00a2 TE | 96.9\u00a2 CTE"
+  },
+  {
+    "Rank":15,
+    "Ticker":"COST",
+    "Company":"Costco",
+    "Period End":"2025-08-31",
+    "Revenue ($B)":275.24,
+    "Consumer Rev ($B)":275.24,
+    "Net Income ($B)":9.23,
+    "TE (%)":96.65,
+    "CTE (%)":96.65,
+    "Insight":"96.6\u00a2 TE | 96.6\u00a2 CTE"
   },
   {
     "Rank":16,
