@@ -493,18 +493,6 @@
   },
   {
     "Rank":42,
-    "Ticker":"ACN",
-    "Company":"Accenture",
-    "Period End":"2025-08-31",
-    "Revenue ($B)":69.67,
-    "Consumer Rev ($B)":69.67,
-    "Net Income ($B)":7.68,
-    "TE (%)":88.98,
-    "CTE (%)":88.98,
-    "Insight":"89.0\u00a2 TE | 89.0\u00a2 CTE"
-  },
-  {
-    "Rank":43,
     "Ticker":"SLB",
     "Company":"Schlumberger",
     "Period End":"2017-12-31",
@@ -514,6 +502,18 @@
     "TE (%)":88.92,
     "CTE (%)":88.92,
     "Insight":"88.9\u00a2 TE | 88.9\u00a2 CTE"
+  },
+  {
+    "Rank":43,
+    "Ticker":"ACN",
+    "Company":"Accenture",
+    "Period End":"2026-08-31",
+    "Revenue ($B)":74.18,
+    "Consumer Rev ($B)":74.18,
+    "Net Income ($B)":8.37,
+    "TE (%)":88.72,
+    "CTE (%)":88.72,
+    "Insight":"88.7\u00a2 TE | 88.7\u00a2 CTE"
   },
   {
     "Rank":44,
