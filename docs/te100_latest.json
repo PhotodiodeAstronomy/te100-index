@@ -1261,18 +1261,6 @@
   },
   {
     "Rank":106,
-    "Ticker":"AAPL",
-    "Company":"Apple",
-    "Period End":"2018-09-29",
-    "Revenue ($B)":265.6,
-    "Consumer Rev ($B)":180.59,
-    "Net Income ($B)":112.01,
-    "TE (%)":57.83,
-    "CTE (%)":37.98,
-    "Insight":"57.8\u00a2 TE | 38.0\u00a2 CTE"
-  },
-  {
-    "Rank":107,
     "Ticker":"AMZN",
     "Company":"Amazon",
     "Period End":"2017-12-31",
@@ -1284,7 +1272,7 @@
     "Insight":"56.3\u00a2 TE | 56.3\u00a2 CTE"
   },
   {
-    "Rank":108,
+    "Rank":107,
     "Ticker":"MS",
     "Company":"Morgan Stanley",
     "Period End":"2014-12-31",
@@ -1294,6 +1282,18 @@
     "TE (%)":50.81,
     "CTE (%)":50.81,
     "Insight":"50.8\u00a2 TE | 50.8\u00a2 CTE"
+  },
+  {
+    "Rank":108,
+    "Ticker":"AAPL",
+    "Company":"Apple",
+    "Period End":"2018-09-29",
+    "Revenue ($B)":265.6,
+    "Consumer Rev ($B)":180.59,
+    "Net Income ($B)":132.18,
+    "TE (%)":50.23,
+    "CTE (%)":26.81,
+    "Insight":"50.2\u00a2 TE | 26.8\u00a2 CTE"
   },
   {
     "Rank":109,
